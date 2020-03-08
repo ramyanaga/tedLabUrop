@@ -1,0 +1,92 @@
+boss refused give, raise simScore: 0.13631119086788898
+cats scratched, ears simScore: 0.25117878866435567
+buy small place build addition, rooms simScore: 0.1258982913653731
+two met one held out his, hand simScore: 0.15621088867103175
+cake guests, arrived simScore: 0.14290191022936113
+dog good sense, smelly simScore: 0.01016138210120629
+national anthem, stand simScore: -0.02295082863538148
+pictures square plates, round simScore: 0.11828075801133177
+could not take message pencil piece, paper simScore: 0.14217783849521703
+shuffle cards, deal simScore: 0.02554139829731397
+minutes arriving office detective spilled thermos full, coffee simScore: 0.1155572699564172
+call middle, night simScore: 0.1749537525698214
+movie baby started, cry simScore: 0.1970651526043551
+go bed turn off, lights simScore: 0.20197904624718954
+board window long, short simScore: 0.14590166128686216
+skin red day, beach simScore: 0.07005264036545869
+clothes, wear simScore: 0.45068427305929953
+dispute settled third, party simScore: 0.1846610458361274
+bottle of wine soft, music simScore: 0.08867905420401574
+refused changed, mind simScore: 0.11785571333206628
+jumped lake made big, splash simScore: 0.19930257122047243
+knocked surfboard first, wave simScore: 0
+pet, leash simScore: 0.19170037046234265
+shark attacks occur close, shore simScore: 0.1143033918003774
+mailed letter without, stamp simScore: 0.11665087948580731
+boys played marbles girls jumped, rope simScore: 0.1168649924747957
+painted the clown suit build gave big red, nose simScore: 0.10270653890516519
+shut front window lock back, door simScore: 0.44302300536527145
+sword dangerous, sharp simScore: 0.14519642641200498
+university register paid overdue fines, books simScore: 0.10558075463030951
+problem cant take, joke simScore: 0.12185070316662144
+father carved turkey, knife simScore: 0.15253802335089223
+felt sorry, fault simScore: 0.14633919779399868
+night old woman locked, door simScore: 0.23313282997727472
+weather warmer wearing lighter jacket heavy winter, coat simScore: 0.22738248937228392
+spare, key simScore: -0.04272938667760917
+colonel wished seargeant treat command polite request, order simScore: 0
+shouted top, lungs simScore: 0.12236469317105046
+ship disappeared thick, fog simScore: 0.2855121642385699
+spilled coffee clean white, shirt simScore: 0.24849444490849557
+rude waiter, tip simScore: 0.0967412688534452
+car knee bumper spare, key simScore: 0.014486207651816125
+fed baby warm, milk simScore: 0.2787102316930377
+children outside, play simScore: 0.10967895990733621
+brightly colored picutres, wall simScore: 0
+fertilizer enriched, soil simScore: 0.25895775608501376
+cat curled, lap simScore: 0.30407600563800125
+dinner spent time coffee, talking simScore: 0.24142981793341708
+ringing busy cleaning chimney, phone simScore: 0.181145750320438
+biking work driving, car simScore: 0.16606894408700199
+added name, list simScore: 0.23051324370399448
+cows moved from sun, shade simScore: 0.14006839255792172
+squirrel stored nuts, tree simScore: 0.21828945802336797
+show changed, channel simScore: -0.037057794734473945
+none books, sense simScore: 0.019913350911538383
+caring hospitalized patients doctor help, nurse simScore: 0.28255618000140603
+listen loud music door bedroom, open simScore: 0.19500641346142567
+constructon worker powerful arms bags cement, truck simScore: 0
+positioned violin, chin simScore: 0.1722215169159725
+threw rock broke, window simScore: 0.25144306498186125
+baby, mother simScore: 0.4993094168985546
+hurricane area window filled broken, glass simScore: 0.18551447208601737
+bend elbow broken, arm simScore: 0.3267777111520125
+command request, order simScore: 0.11691099657441989
+white gull dove caught, fish simScore: 0.17425402188598405
+time buy cake store change clothes guests, arrived simScore: 0.1019945455693585
+sound system installed, car simScore: 0.14613307313753685
+cold damp weather joints ache aspirin, pain simScore: 0.2048902098087846
+night campers built, fire simScore: 0.17125882568390738
+door bedroom, open simScore: 0.31660773774419415
+clean sheet, bed simScore: 0.18743208647624712
+spend december 25th, family simScore: 0.04724864279852797
+smell tobacco, smoke simScore: 0.3488989565688994
+dirty dishes, sink simScore: 0.2900232465493433
+tenants landlord, court simScore: 0.08908783626580812
+everyone honking old man driving, slowly simScore: 0.05921633577055649
+lightening heard, thunder simScore: 0.3078125946163393
+teacher students cheating wrote, names simScore: 0.07262671167997475
+plates, round simScore: 0.027676082750367523
+touch wet, paint simScore: 0.211977549106146
+cold night, blanket simScore: 0.18886685282334725
+raised pigs, farm simScore: 0.14568539837852557
+not read well without, glasses simScore: 0.04610206106973145
+schools closed teachers decided to go, strike simScore: 0.08542682309250749
+careful top stove, hot simScore: 0.18613266358793154
+peral necklace, birthday simScore: 0
+remember, name simScore: 0.22801197952338326
+baby cried upset, mother simScore: 0.33401384708233456
+docked hour pay coming work, late simScore: 0.09675927236727093
+afraid walk near edge cliff afraid, fall simScore: 0.11014717368483758
+morning school mother clothes packed, lunch simScore: 0.2237963085434915
+power went out house, dark simScore: 0.10297047630859861

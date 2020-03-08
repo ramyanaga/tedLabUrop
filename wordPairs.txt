@@ -1,0 +1,288 @@
+﻿A type of weather
+tornado
+sleet
+cereal
+A shape
+circle
+oval
+capes
+A type of meat
+pork
+veal
+pulp
+A meat
+beef
+duck
+ring
+A musical instrument
+drum
+banjo
+bolt
+A type of storm
+thunder
+blizzard
+cannons
+A crime
+robbery
+arson
+signal
+A piece of clothing
+pants
+gloves
+masks
+A flower
+rose
+lilac
+slot
+A weapon
+gun
+club
+babe
+A crime
+murder
+speeding
+dragons
+A place to live in
+house
+cabin
+jelly
+A dairy product
+milk
+cream
+gold
+A feeling
+sad
+envy
+well
+A meat
+chicken
+ham
+shrub
+A color
+blue
+tan
+zone
+A thing you read
+book
+article
+warts
+A sport
+soccer 
+softball
+dustpan
+A seasoning
+salt
+herbs
+risk
+A piece of furniture
+table
+shelf
+elbow
+A seasoning
+pepper
+ketchup
+peanut
+A piece of furniture
+chair
+stool
+witch
+A fruit
+banana
+melon
+wagon
+A piece of clothing
+shirt
+coat
+fish
+A rodent
+rat
+gopher
+ribs
+A room in a house
+kitchen
+office
+monkey
+A wild animal
+lion
+zebra
+acid
+A vegetable
+carrot
+beet
+rest
+A season
+spring
+cold
+stump
+A gardener's tool
+shovel
+spade
+lunch
+A relative
+uncle
+son
+slice
+A farm animal
+cow
+ox
+ivy
+A part of the human body
+leg
+chest
+gyms
+A color
+red
+brown
+nest
+A place to live in
+apartment
+tent
+domino
+A fabric
+cotton
+lace
+payday
+Used by firefighters
+hose
+hydrant 
+films
+A shape
+triangle
+cone
+tailor
+A four-footed animal
+cat
+pig
+bus
+A rodent
+mouse
+shrew
+fudge
+A part of a tree
+branch
+twig
+plaza
+A room in a house
+bedroom
+attic 
+brooms
+A thing that is green
+grass
+frogs
+giant
+A kitchen tool 
+fork
+mixer
+text
+A metal
+steel
+tin
+halo
+A four-footed animal
+dog
+mouse
+pink
+A part of a bicycle
+wheel
+lock
+store
+A type of wood
+oak
+elm
+key
+A season
+fall
+hunting
+force
+A type of music
+rap
+gospel
+riot
+A musical instrument
+flute
+harp
+snap
+A type of bread
+white
+french
+ruins
+A fuel
+gas
+coal
+kid
+Used by hikers
+boots
+compass
+track
+A thing that flies
+bird
+bat
+rice
+A part of the human body
+arm
+neck
+rag
+A room in a house
+bathroom
+study
+zombie
+A piece of clothing
+socks
+tie
+item
+A farm animal
+pig
+mule
+pipe
+A job
+doctor
+banker
+puppet
+A thing you read
+newspaper
+letter
+vulture
+A type of makeup
+lipstick
+gloss
+inmate
+A season
+winter
+christmas
+turnips
+A fruit
+apple
+lime
+slow
+A fabric
+silk
+velvet
+organ
+A weapon
+knife
+spear
+cliff
+A feeling
+happy
+calm
+name
+A fruit
+orange
+plum
+tubas
+A carpenter's tool
+hammer
+ruler
+box
+Used by farmers
+tractor
+rake
+bookcase
+A thing that flies
+airplane
+moth
+possum
+A type of makeup
+blush
+powder
+royal
