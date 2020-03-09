@@ -119,7 +119,7 @@ def outputSimilaritiesAveraged():
             resultFile.write(inconStr)
             resultFile.write("\n")
         
-outputSimilaritiesAveraged()
+#outputSimilaritiesAveraged()
 
 
     
@@ -194,8 +194,8 @@ are (incon, stim) over time
 '''
 def makeLineGraphs():
     wordPairsList = parseTxtFile()
-    real_embeddings = SequentialEmbedding.load("../embeddings/eng-all_sgns", range(1940, 2000, 10))
-
+    #real_embeddings = SequentialEmbedding.load("../embeddings/eng-all_sgns", range(1940, 2000, 10))
+    real_embeddings = SequentialEmbedding.load("../embeddings/eng-all_sgns", range(1800, 2000, 10))
     highPairs, lowPairs, inconPairs = {}, {}, {}
     key = 0
 
@@ -231,9 +231,9 @@ def makeLineGraphs():
     
     # print(highPairs)
 
-    highAvgs = [0 for i in range(1940, 2000, 10)]
-    lowAvgs = [0 for i in range(1940, 2000, 10)]
-    inconAvgs = [0 for i in range(1940, 2000, 10)]
+    highAvgs = [0 for i in range(1800, 2000, 10)]
+    lowAvgs = [0 for i in range(1800, 2000, 10)]
+    inconAvgs = [0 for i in range(1800, 2000, 10)]
     for i in range(len(highAvgs)):
         highIndexSum, lowIndexSum, inconIndexSum = 0, 0, 0
         for key in highPairs:
@@ -247,7 +247,7 @@ def makeLineGraphs():
         lowAvgs[i] = lowIndexAvg
         inconAvgs[i] = inconIndexAvg
     
-    years = [y for y in range(1940, 2000, 10)]
+    years = [y for y in range(1800, 2000, 10)]
     
 
     for key in highPairs:
@@ -261,7 +261,8 @@ def makeLineGraphs():
     plt.plot(years, lowAvgs, 'k', linewidth=2.0)
     plt.plot(years, inconAvgs, 'k', linewidth=2.0)
 
-    plt.title("Changes in similarity scores over time")
+    #plt.title("Changes in similarity scores over time")
+    plt.title("Changes in similarity scores over time (extended)")
     plt.xlabel("Years")
     plt.ylabel("Similarity Scores")
     plt.show()
