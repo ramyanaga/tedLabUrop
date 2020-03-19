@@ -192,12 +192,22 @@ are (low, stim) over time, and the magenta lines
 are (incon, stim) over time
 
 '''
-def makeLineGraphs():
+#def makeLineGraphs():
+def makeLineGraphs(startDecade, endDecade):
     wordPairsList = parseTxtFile()
     #real_embeddings = SequentialEmbedding.load("../embeddings/eng-all_sgns", range(1940, 2000, 10))
-    real_embeddings = SequentialEmbedding.load("../embeddings/eng-all_sgns", range(1800, 2000, 10))
+    real_embeddings = SequentialEmbedding.load("../embeddings/eng-all_sgns", range(startDecade, endDecade, 10))
     highPairs, lowPairs, inconPairs = {}, {}, {}
     key = 0
+
+    def writeToFileFromDict(startDecade, pairsDictList, stim, word, fileName):
+        with open(fileName, "a") as f:
+            currentYear = startDecade
+            for score in pairsDictList:
+                writeStr = stim + ", " + word + " " + str(currentYear) + " "  + str(score) + "\n"
+                f.write(writeStr)
+                currentYear += 10
+            f.write("\n")
 
     for i in range(len(wordPairsList)):
         wordList = wordPairsList[i]
@@ -212,7 +222,6 @@ def makeLineGraphs():
         highPairs[i], lowPairs[i], inconPairs[i] = [], [], []
 
         for year, sim in time_sim_high.iteritems():
-            print(year, sim)
             highPairs[i].append(sim)
 
         for year, sim in time_sim_low.iteritems():
@@ -220,20 +229,18 @@ def makeLineGraphs():
         
         for year, sim in time_sim_incon.iteritems():
             inconPairs[i].append(sim)
+
+        # dump data to a text file
+        # leave this commented out if you already have data files generated
+        #writeToFileFromDict(startDecade, highPairs[i], stimWord, high, "highPairsSimScores.txt")
+        #writeToFileFromDict(startDecade, lowPairs[i], stimWord, low, "lowPairsSimScores.txt")
+        #writeToFileFromDict(startDecade, inconPairs[i], stimWord, incongruent, "incongruentPairsSimScores.txt")
     
-    # for stimPhrase in multipleContentPairMap:
-    #     stimWords = stimPhrase.split(' ')
-    #     high, low, incon = multipleContentPairMap[stimPhrase]
-
-
-
     mpl.style.use('default')
     
-    # print(highPairs)
-
-    highAvgs = [0 for i in range(1800, 2000, 10)]
-    lowAvgs = [0 for i in range(1800, 2000, 10)]
-    inconAvgs = [0 for i in range(1800, 2000, 10)]
+    highAvgs = [0 for i in range(startDecade, endDecade, 10)]
+    lowAvgs = [0 for i in range(startDecade, endDecade, 10)]
+    inconAvgs = [0 for i in range(startDecade, endDecade, 10)]
     for i in range(len(highAvgs)):
         highIndexSum, lowIndexSum, inconIndexSum = 0, 0, 0
         for key in highPairs:
@@ -247,7 +254,7 @@ def makeLineGraphs():
         lowAvgs[i] = lowIndexAvg
         inconAvgs[i] = inconIndexAvg
     
-    years = [y for y in range(1800, 2000, 10)]
+    years = [y for y in range(startDecade, endDecade, 10)]
     
 
     for key in highPairs:
@@ -261,10 +268,9 @@ def makeLineGraphs():
     plt.plot(years, lowAvgs, 'k', linewidth=2.0)
     plt.plot(years, inconAvgs, 'k', linewidth=2.0)
 
-    #plt.title("Changes in similarity scores over time")
     plt.title("Changes in similarity scores over time (extended)")
     plt.xlabel("Years")
     plt.ylabel("Similarity Scores")
     plt.show()
 
-makeLineGraphs()
+makeLineGraphs(1800, 2000)
