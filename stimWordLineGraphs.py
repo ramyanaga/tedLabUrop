@@ -35,13 +35,49 @@ def parseTxtFile():
 
     return wordPairsList[1:]
 
-
-def plotAveragedLines():
+def plotLines(startDecade, endDecade):
     wordPairsList = parseTxtFile()
-    #print(len(wordPairsList))
     figureCount = 0
-    years = [i for i in range(1900, 1990, 10)]
-    real_embeddings = SequentialEmbedding.load("../embeddings/eng-all_sgns", range(1900, 1990, 10))
+    years = [i for i in range(startDecade, endDecade, 10)]
+    real_embeddings = SequentialEmbedding.load("../embeddings/eng-all_sgns", range(startDecade, endDecade, 10))
+    yearHighVals, yearLowVals, yearLowVals = [], [], []
+    for wordList in wordPairsList:
+        if len(wordList) < 4:
+            continue
+        stimWord = wordList[0]
+        highVals, lowVals, inconVals = [], [], []
+        highCounter, lowCounter, inconCounter = 0, 0, 0
+        high, low, incongruent = wordList[1], wordList[2], wordList[3]      
+        time_sim_high = real_embeddings.get_time_sims(stimWord, high)
+        time_sim_low = real_embeddings.get_time_sims(stimWord, low)
+        time_sim_incon = real_embeddings.get_time_sims(stimWord, incongruent)
+
+        for sim_year, sim in time_sim_high.iteritems():
+            highVals.append(sim)
+        
+        for sim_year, sim in time_sim_low.iteritems():
+            lowVals.append(sim)
+        
+        for sim_year, sim in time_sim_incon.iteritems():
+            inconVals.append(sim)
+    
+        plt.figure()
+        plt.plot(years, highVals, 'g')
+        plt.plot(years, lowVals, 'r')
+        plt.plot(years, inconVals, 'm')
+        plotTitle = stimWord + " " + "(" + high + ", " + low + ", " + incongruent + ", " + ")"
+
+        plotFileName = "individualLineGraphs/" + stimWord + "_" + high + "_" + low + "_" + incongruent
+        plt.title(plotTitle)
+        plt.savefig(plotFileName)
+        plt.close()
+
+
+def plotAveragedLines(startDecade, endDecade):
+    wordPairsList = parseTxtFile()
+    figureCount = 0
+    years = [i for i in range(startDecade, endDecade, 10)]
+    real_embeddings = SequentialEmbedding.load("../embeddings/eng-all_sgns", range(startDecade, endDecade, 10))
     yearHighVals, yearLowVals, yearInconVals = [], [], []
     for wordList in wordPairsList:
         if len(wordList) < 4:
@@ -76,4 +112,5 @@ def plotAveragedLines():
         plt.savefig(plotFileName)
         plt.close()
 
-plotAveragedLines()
+#plotAveragedLines(startDecade=1800, endDecade=2000)
+plotLines(startDecade=1800, endDecade=2000)
