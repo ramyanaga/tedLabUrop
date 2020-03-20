@@ -35,7 +35,7 @@ def parseTxtFile():
 
     return wordPairsList[1:]
 
-def plotLines(startDecade, endDecade):
+def plotIndividualLines(startDecade, endDecade, averaged=False):
     wordPairsList = parseTxtFile()
     figureCount = 0
     years = [i for i in range(startDecade, endDecade, 10)]
@@ -53,64 +53,39 @@ def plotLines(startDecade, endDecade):
         time_sim_incon = real_embeddings.get_time_sims(stimWord, incongruent)
 
         for sim_year, sim in time_sim_high.iteritems():
-            highVals.append(sim)
+            if averaged:
+                nextHigh = (sum(highVals) + sim)/(len(highVals) + 1)
+                highVals.append(nextHigh)
+            else:
+                highVals.append(sim)
         
         for sim_year, sim in time_sim_low.iteritems():
-            lowVals.append(sim)
+            if averaged:
+                nextLow = (sum(lowVals) + sim)/(len(lowVals) + 1)
+                lowVals.append(nextLow)
+            else:
+                lowVals.append(sim)
         
         for sim_year, sim in time_sim_incon.iteritems():
-            inconVals.append(sim)
-    
+            if averaged:
+                nextIncon = (sum(inconVals) + sim)/(len(inconVals) + 1)
+                inconVals.append(nextIncon)
+            else:
+                inconVals.append(sim)
+        
         plt.figure()
         plt.plot(years, highVals, 'g')
         plt.plot(years, lowVals, 'r')
         plt.plot(years, inconVals, 'm')
         plotTitle = stimWord + " " + "(" + high + ", " + low + ", " + incongruent + ", " + ")"
 
-        plotFileName = "individualLineGraphs/" + stimWord + "_" + high + "_" + low + "_" + incongruent
+        if averaged:
+            plotFileName = "averagedLineGraphs/" + stimWord + "_" + high + "_" + low + "_" + incongruent
+        else:
+            plotFileName = "individualLineGraphs/" + stimWord + "_" + high + "_" + low + "_" + incongruent
         plt.title(plotTitle)
         plt.savefig(plotFileName)
         plt.close()
-
-
-def plotAveragedLines(startDecade, endDecade):
-    wordPairsList = parseTxtFile()
-    figureCount = 0
-    years = [i for i in range(startDecade, endDecade, 10)]
-    real_embeddings = SequentialEmbedding.load("../embeddings/eng-all_sgns", range(startDecade, endDecade, 10))
-    yearHighVals, yearLowVals, yearInconVals = [], [], []
-    for wordList in wordPairsList:
-        if len(wordList) < 4:
-            continue
-        stimWord = wordList[0]
-        highAvgs, lowAvgs, inconAvgs = [], [], []
-        highCounter, lowCounter, inconCounter = 0,0,0
-        high, low, incongruent = wordList[1], wordList[2], wordList[3]
-        time_sim_high = real_embeddings.get_time_sims(stimWord, high)
-        time_sim_low = real_embeddings.get_time_sims(stimWord, low)
-        time_sim_incon = real_embeddings.get_time_sims(stimWord, incongruent)
-
-        for sim_year, sim in time_sim_high.iteritems():
-            nextHigh = (sum(highAvgs) + sim)/(len(highAvgs) + 1)
-            highAvgs.append(nextHigh)
         
-        for sim_year, sim in time_sim_low.iteritems():
-            nextLow = (sum(lowAvgs) + sim)/(len(lowAvgs) + 1)
-            lowAvgs.append(nextLow)
         
-        for sim_year, sim in time_sim_incon.iteritems():
-            nextIncon = (sum(inconAvgs) + sim)/(len(inconAvgs) + 1)
-            inconAvgs.append(nextIncon)
-
-        plt.figure()
-        plt.plot(years, highAvgs, 'g')
-        plt.plot(years, lowAvgs, 'r')
-        plt.plot(years, inconAvgs, 'm')
-        plotTitle = stimWord + " " + "(" + high + ", " + low + ", " + incongruent + ", " + ")"
-        plotFileName = "averagedLineGraphs/" + stimWord + "_" + high + "_" + low + "_" + incongruent
-        plt.title(plotTitle)
-        plt.savefig(plotFileName)
-        plt.close()
-
-#plotAveragedLines(startDecade=1800, endDecade=2000)
-plotLines(startDecade=1800, endDecade=2000)
+plotIndividualLines(startDecade=1800, endDecade=2000, averaged=True)
