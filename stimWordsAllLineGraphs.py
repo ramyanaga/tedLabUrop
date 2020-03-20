@@ -232,9 +232,9 @@ def makeLineGraphs(startDecade, endDecade):
 
         # dump data to a text file
         # leave this commented out if you already have data files generated
-        #writeToFileFromDict(startDecade, highPairs[i], stimWord, high, "highPairsSimScores.txt")
-        #writeToFileFromDict(startDecade, lowPairs[i], stimWord, low, "lowPairsSimScores.txt")
-        #writeToFileFromDict(startDecade, inconPairs[i], stimWord, incongruent, "incongruentPairsSimScores.txt")
+        #writeToFileFromDict(startDecade, highPairs[i], stimWord, high, "highPairsCosSimScores.txt")
+        #writeToFileFromDict(startDecade, lowPairs[i], stimWord, low, "lowPairsCosSimScores.txt")
+        #writeToFileFromDict(startDecade, inconPairs[i], stimWord, incongruent, "incongruentPairsCosSimScores.txt")
     
     mpl.style.use('default')
     
