@@ -58,7 +58,6 @@ def getContextSimScoreDenom(startDecade, endDecade, wordPairsList, real_embeddin
             stimWordDenomMap[triplet][year] = yearSum
     
     return stimWordDenomMap
-
         
 def plotIndividualLines(startDecade, endDecade, averaged=False, contextRelevant=False):
     cosDenom = 0
@@ -70,6 +69,8 @@ def plotIndividualLines(startDecade, endDecade, averaged=False, contextRelevant=
     stimWordDenomMap = {}
     if contextRelevant == True:
         stimWordDenomMap = getContextSimScoreDenom(startDecade, endDecade, wordPairsList, real_embeddings)
+
+    allHighVals, allLowVals, allInconVals = [], [], []
     for wordList in wordPairsList:
         if len(wordList) < 4:
             continue
@@ -87,8 +88,12 @@ def plotIndividualLines(startDecade, endDecade, averaged=False, contextRelevant=
                 nextHigh = (sum(highVals) + sim)/(len(highVals) + 1)
                 highVals.append(nextHigh)
             elif contextRelevant:
-                nextHigh = sim/stimWordDenomMap[triplet][sim_year]
+                if stimWordDenomMap[triplet][sim_year] != 0:
+                    nextHigh = sim/stimWordDenomMap[triplet][sim_year]
+                else:
+                    nextHigh = 0.0
                 highVals.append(nextHigh)
+
             else:
                 highVals.append(sim)
         
@@ -97,7 +102,10 @@ def plotIndividualLines(startDecade, endDecade, averaged=False, contextRelevant=
                 nextLow = (sum(lowVals) + sim)/(len(lowVals) + 1)
                 lowVals.append(nextLow)
             elif contextRelevant:
-                nextLow = sim/stimWordDenomMap[triplet][sim_year]
+                if stimWordDenomMap[triplet][sim_year] != 0:
+                    nextLow = sim/stimWordDenomMap[triplet][sim_year]
+                else:
+                    nextLow = 0.0
                 lowVals.append(nextLow)
             else:
                 lowVals.append(sim)
@@ -107,7 +115,10 @@ def plotIndividualLines(startDecade, endDecade, averaged=False, contextRelevant=
                 nextIncon = (sum(inconVals) + sim)/(len(inconVals) + 1)
                 inconVals.append(nextIncon)
             elif contextRelevant:
-                nextIncon = sim/stimWordDenomMap[triplet][sim_year]
+                if stimWordDenomMap[triplet][sim_year] != 0:
+                    nextIncon = sim/stimWordDenomMap[triplet][sim_year]
+                else:
+                    nextIncon = 0.0
                 inconVals.append(nextIncon)
             else:
                 inconVals.append(sim)
@@ -127,6 +138,22 @@ def plotIndividualLines(startDecade, endDecade, averaged=False, contextRelevant=
         plt.title(plotTitle)
         plt.savefig(plotFileName)
         plt.close()
+    
+        allHighVals.append(highVals)
+        allLowVals.append(lowVals)
+        allInconVals.append(inconVals)
+    
+    # plt.figure()
+    # for i in range(len(allHighVals)):
+    #     plt.plot(years, allHighVals[i], 'g')
+    #     plt.plot(years, allLowVals[i], 'r')
+    #     plt.plot(years, allInconVals[i], 'm')
+    
+    # plotTitle = "Context Relevant Change In Sim Scores"
+    # plotFileName = "test.png"
+    # plt.title(plotTitle)
+    # plt.savefig(plotFileName)
+    # plt.close()
+
         
-        
-plotIndividualLines(startDecade=1800, endDecade=2000, averaged=False, contextRelevant=True)
+plotIndividualLines(startDecade=1800, endDecade=2000)
