@@ -35,12 +35,41 @@ def parseTxtFile():
 
     return wordPairsList[1:]
 
-def plotIndividualLines(startDecade, endDecade, averaged=False):
+'''
+stimWord = w_1, (high, low, incongruent) = w_j words
+'''
+def getContextSimScoreDenom(startDecade, endDecade, wordPairsList, real_embeddings):
+    nonStimWords = []
+    stimWordDenomMap = {} # map the triplet (stim, high, low, incon) to denom score b/c some stim words repeat
+    for wordList in wordPairsList:
+        if len(wordList) < 4:
+            continue
+        stimWord = wordList[0]
+        high, low, incongruent = wordList[1], wordList[2], wordList[3]
+        triplet = (stimWord, high, low, incongruent)     
+        stimWordDenomMap[triplet] = {}
+        
+        time_sim_high = real_embeddings.get_time_sims(stimWord, high)
+        time_sim_low = real_embeddings.get_time_sims(stimWord, low)
+        time_sim_incon = real_embeddings.get_time_sims(stimWord, incongruent)
+
+        for year in range(startDecade, endDecade, 10):
+            yearSum = time_sim_high[year] + time_sim_low[year] + time_sim_high[year]
+            stimWordDenomMap[triplet][year] = yearSum
+    
+    return stimWordDenomMap
+
+        
+def plotIndividualLines(startDecade, endDecade, averaged=False, contextRelevant=False):
+    cosDenom = 0
     wordPairsList = parseTxtFile()
     figureCount = 0
     years = [i for i in range(startDecade, endDecade, 10)]
     real_embeddings = SequentialEmbedding.load("../embeddings/eng-all_sgns", range(startDecade, endDecade, 10))
     yearHighVals, yearLowVals, yearLowVals = [], [], []
+    stimWordDenomMap = {}
+    if contextRelevant == True:
+        stimWordDenomMap = getContextSimScoreDenom(startDecade, endDecade, wordPairsList, real_embeddings)
     for wordList in wordPairsList:
         if len(wordList) < 4:
             continue
@@ -51,10 +80,14 @@ def plotIndividualLines(startDecade, endDecade, averaged=False):
         time_sim_high = real_embeddings.get_time_sims(stimWord, high)
         time_sim_low = real_embeddings.get_time_sims(stimWord, low)
         time_sim_incon = real_embeddings.get_time_sims(stimWord, incongruent)
+        triplet = (stimWord, high, low, incongruent) # only used if contextScores = true
 
         for sim_year, sim in time_sim_high.iteritems():
             if averaged:
                 nextHigh = (sum(highVals) + sim)/(len(highVals) + 1)
+                highVals.append(nextHigh)
+            elif contextRelevant:
+                nextHigh = sim/stimWordDenomMap[triplet][sim_year]
                 highVals.append(nextHigh)
             else:
                 highVals.append(sim)
@@ -63,12 +96,18 @@ def plotIndividualLines(startDecade, endDecade, averaged=False):
             if averaged:
                 nextLow = (sum(lowVals) + sim)/(len(lowVals) + 1)
                 lowVals.append(nextLow)
+            elif contextRelevant:
+                nextLow = sim/stimWordDenomMap[triplet][sim_year]
+                lowVals.append(nextLow)
             else:
                 lowVals.append(sim)
         
         for sim_year, sim in time_sim_incon.iteritems():
             if averaged:
                 nextIncon = (sum(inconVals) + sim)/(len(inconVals) + 1)
+                inconVals.append(nextIncon)
+            elif contextRelevant:
+                nextIncon = sim/stimWordDenomMap[triplet][sim_year]
                 inconVals.append(nextIncon)
             else:
                 inconVals.append(sim)
@@ -81,6 +120,8 @@ def plotIndividualLines(startDecade, endDecade, averaged=False):
 
         if averaged:
             plotFileName = "averagedLineGraphs/" + stimWord + "_" + high + "_" + low + "_" + incongruent
+        elif contextRelevant:
+            plotFileName = "contextRelevantLineGraphs/" + stimWord + "_" + high + "_" + low + "_" + incongruent
         else:
             plotFileName = "individualLineGraphs/" + stimWord + "_" + high + "_" + low + "_" + incongruent
         plt.title(plotTitle)
@@ -88,4 +129,4 @@ def plotIndividualLines(startDecade, endDecade, averaged=False):
         plt.close()
         
         
-plotIndividualLines(startDecade=1800, endDecade=2000, averaged=True)
+plotIndividualLines(startDecade=1800, endDecade=2000, averaged=False, contextRelevant=True)
