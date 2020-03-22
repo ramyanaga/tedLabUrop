@@ -34,23 +34,29 @@ Ignore files named *_avg.png and *_avg.txt
 ## floridaResults
 This folder has results from the florida norms dataset.
 There are 2 types of files in this directory: <>.txt files and <>HighDiff.txt files.
+
 The <>.txt file (for example abPairs.txt) has the similarity scores over time
 of all words pairs in the florida norms data. The <>HighDiff.txt files
 have the pairs that have changed by >= +/-.3 over time
 
 ## Recreating Plots
 1. To re-create the line graphs in individualLineGraphs, averagedLineGraphs, and contextRelevantLineGraphs:
+
       a. create an empty directory named either individualLineGraphs, averagedLineGraphs, or contextRelevantLineGraphs (depending
           on which set of plots you are trying to re-create)
+
       b. modify the function call at the bottom of the file stimWordLineGraphs.py to one of the following:
+
          i. For individualLineGraphs:
          ```bash
             plotIndividualLines(startDecade=1800, endDecade=2000, False, False)
          ```
+
          ii. For averagedLineGraphs:
          ```bash
             plotIndividualLines(startDecade=1800, endDecade=2000, averaged=True, contextRelevant=False)
          ```
+
          iii. For contextRelevantGraphs:
          ```bash
             plotIndividualLines(startDecade=1800, endDecade=2000, averaged=False, contextRelevant=False)
