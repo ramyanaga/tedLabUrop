@@ -64,7 +64,7 @@ have the pairs that have changed by >= +/-.3 over time
 
       c. run the file stimWordLineGraphs.py
 
-      Bonus: you can play around with the start or end decade by changing the function parameter to modify
+      d. Bonus: you can play around with the start or end decade by changing the function parameter to modify
       your graphs to start or end at different periods of time.
    
    2. To re-create the plot in the file changesInSimilarityScoresExtended.png run the file stimWordsAllLineGraphs.py
