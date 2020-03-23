@@ -1,0 +1,2448 @@
+weather tornado 1830, cosine similarity=0.00
+weather tornado 1990, cosine similarity=0.15
+
+weather sleet 1830, cosine similarity=0.35
+weather sleet 1990, cosine similarity=0.18
+
+weather cereal 1830, cosine similarity=0.00
+weather cereal 1990, cosine similarity=-0.04
+
+shape circle 1830, cosine similarity=0.11
+shape circle 1990, cosine similarity=0.12
+
+shape oval 1830, cosine similarity=0.41
+shape oval 1990, cosine similarity=0.31
+
+shape capes 1830, cosine similarity=0.03
+shape capes 1990, cosine similarity=-0.01
+
+meat pork 1830, cosine similarity=0.49
+meat pork 1990, cosine similarity=0.57
+
+meat veal 1830, cosine similarity=0.31
+meat veal 1990, cosine similarity=0.44
+
+meat pulp 1830, cosine similarity=0.18
+meat pulp 1990, cosine similarity=0.23
+
+meat beef 1830, cosine similarity=0.51
+meat beef 1990, cosine similarity=0.63
+
+meat duck 1830, cosine similarity=0.15
+meat duck 1990, cosine similarity=0.19
+
+meat ring 1830, cosine similarity=0.02
+meat ring 1990, cosine similarity=0.04
+
+instrument drum 1830, cosine similarity=0.18
+instrument drum 1990, cosine similarity=0.18
+
+instrument banjo 1830, cosine similarity=0.00
+instrument banjo 1990, cosine similarity=0.09
+
+instrument bolt 1830, cosine similarity=0.11
+instrument bolt 1990, cosine similarity=0.07
+
+storm thunder 1830, cosine similarity=0.40
+storm thunder 1990, cosine similarity=0.38
+
+storm blizzard 1830, cosine similarity=0.00
+storm blizzard 1990, cosine similarity=0.24
+
+storm cannons 1830, cosine similarity=0.00
+storm cannons 1990, cosine similarity=0.19
+
+crime robbery 1830, cosine similarity=0.38
+crime robbery 1990, cosine similarity=0.42
+
+crime arson 1830, cosine similarity=0.00
+crime arson 1990, cosine similarity=0.24
+
+crime signal 1830, cosine similarity=0.03
+crime signal 1990, cosine similarity=-0.12
+
+clothing pants 1830, cosine similarity=0.00
+clothing pants 1990, cosine similarity=0.16
+
+clothing gloves 1830, cosine similarity=0.26
+clothing gloves 1990, cosine similarity=0.40
+
+clothing masks 1830, cosine similarity=0.00
+clothing masks 1990, cosine similarity=0.23
+
+flower rose 1830, cosine similarity=0.24
+flower rose 1990, cosine similarity=0.28
+
+flower lilac 1830, cosine similarity=0.00
+flower lilac 1990, cosine similarity=0.33
+
+flower slot 1830, cosine similarity=0.00
+flower slot 1990, cosine similarity=0.17
+
+weapon gun 1830, cosine similarity=0.23
+weapon gun 1990, cosine similarity=0.44
+
+weapon club 1830, cosine similarity=0.27
+weapon club 1990, cosine similarity=0.12
+
+weapon babe 1830, cosine similarity=0.12
+weapon babe 1990, cosine similarity=0.05
+
+crime murder 1830, cosine similarity=0.47
+crime murder 1990, cosine similarity=0.45
+
+crime speeding 1830, cosine similarity=0.00
+crime speeding 1990, cosine similarity=0.09
+
+crime dragons 1830, cosine similarity=-0.04
+crime dragons 1990, cosine similarity=0.04
+
+in house 1830, cosine similarity=0.04
+in house 1990, cosine similarity=0.03
+
+in cabin 1830, cosine similarity=-0.02
+in cabin 1990, cosine similarity=0.04
+
+in jelly 1830, cosine similarity=0.03
+in jelly 1990, cosine similarity=0.06
+
+product milk 1830, cosine similarity=0.17
+product milk 1990, cosine similarity=0.18
+
+product cream 1830, cosine similarity=0.10
+product cream 1990, cosine similarity=0.02
+
+product gold 1830, cosine similarity=0.07
+product gold 1990, cosine similarity=0.02
+
+feeling sad 1830, cosine similarity=0.15
+feeling sad 1990, cosine similarity=0.27
+
+feeling envy 1830, cosine similarity=0.20
+feeling envy 1990, cosine similarity=0.30
+
+feeling well 1830, cosine similarity=0.06
+feeling well 1990, cosine similarity=0.18
+
+meat chicken 1830, cosine similarity=0.37
+meat chicken 1990, cosine similarity=0.47
+
+meat ham 1830, cosine similarity=0.26
+meat ham 1990, cosine similarity=0.28
+
+meat shrub 1830, cosine similarity=0.14
+meat shrub 1990, cosine similarity=0.19
+
+color blue 1830, cosine similarity=0.39
+color blue 1990, cosine similarity=0.33
+
+color tan 1830, cosine similarity=0.00
+color tan 1990, cosine similarity=0.20
+
+color zone 1830, cosine similarity=0.03
+color zone 1990, cosine similarity=0.09
+
+read book 1830, cosine similarity=0.39
+read book 1990, cosine similarity=0.32
+
+read article 1830, cosine similarity=0.07
+read article 1990, cosine similarity=0.15
+
+read warts 1830, cosine similarity=0.00
+read warts 1990, cosine similarity=-0.05
+
+seasoning salt 1830, cosine similarity=0.00
+seasoning salt 1990, cosine similarity=0.36
+
+seasoning herbs 1830, cosine similarity=0.00
+seasoning herbs 1990, cosine similarity=0.27
+
+seasoning risk 1830, cosine similarity=0.00
+seasoning risk 1990, cosine similarity=-0.06
+
+furniture table 1830, cosine similarity=0.19
+furniture table 1990, cosine similarity=0.10
+
+furniture shelf 1830, cosine similarity=0.13
+furniture shelf 1990, cosine similarity=0.18
+
+furniture elbow 1830, cosine similarity=0.01
+furniture elbow 1990, cosine similarity=-0.07
+
+seasoning pepper 1830, cosine similarity=0.00
+seasoning pepper 1990, cosine similarity=0.44
+
+seasoning ketchup 1830, cosine similarity=0.00
+seasoning ketchup 1990, cosine similarity=0.26
+
+seasoning peanut 1830, cosine similarity=0.00
+seasoning peanut 1990, cosine similarity=0.30
+
+furniture chair 1830, cosine similarity=0.07
+furniture chair 1990, cosine similarity=0.15
+
+furniture stool 1830, cosine similarity=0.09
+furniture stool 1990, cosine similarity=0.05
+
+furniture witch 1830, cosine similarity=-0.04
+furniture witch 1990, cosine similarity=0.04
+
+fruit banana 1830, cosine similarity=0.00
+fruit banana 1990, cosine similarity=0.35
+
+fruit melon 1830, cosine similarity=0.00
+fruit melon 1990, cosine similarity=0.23
+
+fruit wagon 1830, cosine similarity=0.02
+fruit wagon 1990, cosine similarity=0.06
+
+clothing shirt 1830, cosine similarity=0.30
+clothing shirt 1990, cosine similarity=0.23
+
+clothing coat 1830, cosine similarity=0.24
+clothing coat 1990, cosine similarity=0.26
+
+clothing fish 1830, cosine similarity=0.14
+clothing fish 1990, cosine similarity=0.13
+
+rodent rat 1830, cosine similarity=0.00
+rodent rat 1990, cosine similarity=0.28
+
+rodent gopher 1830, cosine similarity=0.00
+rodent gopher 1990, cosine similarity=0.14
+
+rodent ribs 1830, cosine similarity=0.00
+rodent ribs 1990, cosine similarity=0.03
+
+house kitchen 1830, cosine similarity=0.30
+house kitchen 1990, cosine similarity=0.31
+
+house office 1830, cosine similarity=0.06
+house office 1990, cosine similarity=0.23
+
+house monkey 1830, cosine similarity=-0.01
+house monkey 1990, cosine similarity=0.05
+
+animal lion 1830, cosine similarity=0.23
+animal lion 1990, cosine similarity=0.17
+
+animal zebra 1830, cosine similarity=0.00
+animal zebra 1990, cosine similarity=0.06
+
+animal acid 1830, cosine similarity=0.21
+animal acid 1990, cosine similarity=0.07
+
+vegetable carrot 1830, cosine similarity=0.00
+vegetable carrot 1990, cosine similarity=0.33
+
+vegetable beet 1830, cosine similarity=0.00
+vegetable beet 1990, cosine similarity=0.27
+
+vegetable rest 1830, cosine similarity=0.04
+vegetable rest 1990, cosine similarity=0.03
+
+season spring 1830, cosine similarity=0.43
+season spring 1990, cosine similarity=0.38
+
+season cold 1830, cosine similarity=0.27
+season cold 1990, cosine similarity=0.23
+
+season stump 1830, cosine similarity=0.00
+season stump 1990, cosine similarity=0.05
+
+tool shovel 1830, cosine similarity=0.16
+tool shovel 1990, cosine similarity=0.13
+
+tool spade 1830, cosine similarity=0.20
+tool spade 1990, cosine similarity=0.10
+
+tool lunch 1830, cosine similarity=0.00
+tool lunch 1990, cosine similarity=-0.05
+
+relative uncle 1830, cosine similarity=0.05
+relative uncle 1990, cosine similarity=-0.05
+
+relative son 1830, cosine similarity=0.02
+relative son 1990, cosine similarity=-0.10
+
+relative slice 1830, cosine similarity=-0.11
+relative slice 1990, cosine similarity=0.02
+
+animal cow 1830, cosine similarity=0.25
+animal cow 1990, cosine similarity=0.36
+
+animal ox 1830, cosine similarity=0.22
+animal ox 1990, cosine similarity=0.28
+
+animal ivy 1830, cosine similarity=0.05
+animal ivy 1990, cosine similarity=0.07
+
+body leg 1830, cosine similarity=0.20
+body leg 1990, cosine similarity=0.25
+
+body chest 1830, cosine similarity=0.24
+body chest 1990, cosine similarity=0.17
+
+body gyms 1830, cosine similarity=0.00
+body gyms 1990, cosine similarity=0.00
+
+color red 1830, cosine similarity=0.42
+color red 1990, cosine similarity=0.30
+
+color brown 1830, cosine similarity=0.43
+color brown 1990, cosine similarity=0.26
+
+color nest 1830, cosine similarity=0.07
+color nest 1990, cosine similarity=0.05
+
+in apartment 1830, cosine similarity=-0.07
+in apartment 1990, cosine similarity=0.02
+
+in tent 1830, cosine similarity=0.01
+in tent 1990, cosine similarity=0.04
+
+in domino 1830, cosine similarity=0.00
+in domino 1990, cosine similarity=-0.06
+
+fabric cotton 1830, cosine similarity=0.16
+fabric cotton 1990, cosine similarity=0.24
+
+fabric lace 1830, cosine similarity=0.14
+fabric lace 1990, cosine similarity=0.27
+
+fabric payday 1830, cosine similarity=0.00
+fabric payday 1990, cosine similarity=0.00
+
+shape triangle 1830, cosine similarity=0.31
+shape triangle 1990, cosine similarity=0.19
+
+shape cone 1830, cosine similarity=0.31
+shape cone 1990, cosine similarity=0.27
+
+shape tailor 1830, cosine similarity=0.03
+shape tailor 1990, cosine similarity=0.07
+
+animal cat 1830, cosine similarity=0.32
+animal cat 1990, cosine similarity=0.28
+
+animal pig 1830, cosine similarity=0.22
+animal pig 1990, cosine similarity=0.30
+
+animal bus 1830, cosine similarity=0.00
+animal bus 1990, cosine similarity=-0.01
+
+rodent mouse 1830, cosine similarity=0.00
+rodent mouse 1990, cosine similarity=0.24
+
+rodent shrew 1830, cosine similarity=0.00
+rodent shrew 1990, cosine similarity=0.09
+
+rodent fudge 1830, cosine similarity=0.00
+rodent fudge 1990, cosine similarity=0.08
+
+tree branch 1830, cosine similarity=0.31
+tree branch 1990, cosine similarity=0.32
+
+tree twig 1830, cosine similarity=0.44
+tree twig 1990, cosine similarity=0.36
+
+tree plaza 1830, cosine similarity=0.00
+tree plaza 1990, cosine similarity=0.07
+
+green grass 1830, cosine similarity=0.41
+green grass 1990, cosine similarity=0.35
+
+green frogs 1830, cosine similarity=0.13
+green frogs 1990, cosine similarity=0.07
+
+green giant 1830, cosine similarity=0.07
+green giant 1990, cosine similarity=0.14
+
+ fork 1830, cosine similarity=0.00
+ fork 1990, cosine similarity=0.00
+
+ mixer 1830, cosine similarity=0.00
+ mixer 1990, cosine similarity=0.00
+
+ text 1830, cosine similarity=0.00
+ text 1990, cosine similarity=0.00
+
+metal steel 1830, cosine similarity=0.43
+metal steel 1990, cosine similarity=0.52
+
+metal tin 1830, cosine similarity=0.54
+metal tin 1990, cosine similarity=0.42
+
+metal halo 1830, cosine similarity=0.00
+metal halo 1990, cosine similarity=0.16
+
+animal dog 1830, cosine similarity=0.35
+animal dog 1990, cosine similarity=0.37
+
+animal mouse 1830, cosine similarity=0.21
+animal mouse 1990, cosine similarity=0.15
+
+animal pink 1830, cosine similarity=-0.06
+animal pink 1990, cosine similarity=0.09
+
+bicycle wheel 1830, cosine similarity=0.00
+bicycle wheel 1990, cosine similarity=0.34
+
+bicycle lock 1830, cosine similarity=0.00
+bicycle lock 1990, cosine similarity=0.11
+
+bicycle store 1830, cosine similarity=0.00
+bicycle store 1990, cosine similarity=0.10
+
+wood oak 1830, cosine similarity=0.40
+wood oak 1990, cosine similarity=0.29
+
+wood elm 1830, cosine similarity=0.29
+wood elm 1990, cosine similarity=0.13
+
+wood key 1830, cosine similarity=0.06
+wood key 1990, cosine similarity=-0.03
+
+season fall 1830, cosine similarity=0.05
+season fall 1990, cosine similarity=0.18
+
+season hunting 1830, cosine similarity=0.16
+season hunting 1990, cosine similarity=0.21
+
+season force 1830, cosine similarity=-0.02
+season force 1990, cosine similarity=-0.03
+
+music rap 1830, cosine similarity=0.12
+music rap 1990, cosine similarity=0.27
+
+music gospel 1830, cosine similarity=0.01
+music gospel 1990, cosine similarity=0.15
+
+music riot 1830, cosine similarity=0.06
+music riot 1990, cosine similarity=0.17
+
+instrument flute 1830, cosine similarity=0.19
+instrument flute 1990, cosine similarity=0.27
+
+instrument harp 1830, cosine similarity=0.23
+instrument harp 1990, cosine similarity=0.26
+
+instrument snap 1830, cosine similarity=0.11
+instrument snap 1990, cosine similarity=0.01
+
+bread white 1830, cosine similarity=0.16
+bread white 1990, cosine similarity=0.13
+
+bread french 1830, cosine similarity=-0.13
+bread french 1990, cosine similarity=0.09
+
+bread ruins 1830, cosine similarity=-0.10
+bread ruins 1990, cosine similarity=0.04
+
+fuel gas 1830, cosine similarity=0.37
+fuel gas 1990, cosine similarity=0.46
+
+fuel coal 1830, cosine similarity=0.40
+fuel coal 1990, cosine similarity=0.44
+
+fuel kid 1830, cosine similarity=0.09
+fuel kid 1990, cosine similarity=-0.01
+
+hikers boots 1830, cosine similarity=0.00
+hikers boots 1990, cosine similarity=0.22
+
+hikers compass 1830, cosine similarity=0.00
+hikers compass 1990, cosine similarity=0.07
+
+hikers track 1830, cosine similarity=0.00
+hikers track 1990, cosine similarity=0.14
+
+flies bird 1830, cosine similarity=0.31
+flies bird 1990, cosine similarity=0.31
+
+flies bat 1830, cosine similarity=0.32
+flies bat 1990, cosine similarity=0.18
+
+flies rice 1830, cosine similarity=0.12
+flies rice 1990, cosine similarity=0.16
+
+body arm 1830, cosine similarity=0.18
+body arm 1990, cosine similarity=0.23
+
+body neck 1830, cosine similarity=0.27
+body neck 1990, cosine similarity=0.31
+
+body rag 1830, cosine similarity=0.03
+body rag 1990, cosine similarity=0.08
+
+house bathroom 1830, cosine similarity=0.00
+house bathroom 1990, cosine similarity=0.20
+
+house study 1830, cosine similarity=-0.11
+house study 1990, cosine similarity=-0.09
+
+house zombie 1830, cosine similarity=0.00
+house zombie 1990, cosine similarity=0.00
+
+clothing socks 1830, cosine similarity=0.00
+clothing socks 1990, cosine similarity=0.32
+
+clothing tie 1830, cosine similarity=0.03
+clothing tie 1990, cosine similarity=0.12
+
+clothing item 1830, cosine similarity=0.04
+clothing item 1990, cosine similarity=0.22
+
+animal pig 1830, cosine similarity=0.22
+animal pig 1990, cosine similarity=0.30
+
+animal mule 1830, cosine similarity=0.23
+animal mule 1990, cosine similarity=0.20
+
+animal pipe 1830, cosine similarity=0.02
+animal pipe 1990, cosine similarity=0.00
+
+job doctor 1830, cosine similarity=0.17
+job doctor 1990, cosine similarity=0.20
+
+job banker 1830, cosine similarity=0.08
+job banker 1990, cosine similarity=0.10
+
+job puppet 1830, cosine similarity=0.18
+job puppet 1990, cosine similarity=-0.09
+
+read newspaper 1830, cosine similarity=0.28
+read newspaper 1990, cosine similarity=0.32
+
+read letter 1830, cosine similarity=0.29
+read letter 1990, cosine similarity=0.23
+
+read vulture 1830, cosine similarity=-0.07
+read vulture 1990, cosine similarity=0.03
+
+makeup lipstick 1830, cosine similarity=0.00
+makeup lipstick 1990, cosine similarity=0.30
+
+makeup gloss 1830, cosine similarity=0.00
+makeup gloss 1990, cosine similarity=0.09
+
+makeup inmate 1830, cosine similarity=0.00
+makeup inmate 1990, cosine similarity=0.10
+
+season winter 1830, cosine similarity=0.50
+season winter 1990, cosine similarity=0.43
+
+season christmas 1830, cosine similarity=0.26
+season christmas 1990, cosine similarity=0.28
+
+season turnips 1830, cosine similarity=0.21
+season turnips 1990, cosine similarity=0.13
+
+fruit apple 1830, cosine similarity=0.37
+fruit apple 1990, cosine similarity=0.39
+
+fruit lime 1830, cosine similarity=0.16
+fruit lime 1990, cosine similarity=0.25
+
+fruit slow 1830, cosine similarity=0.00
+fruit slow 1990, cosine similarity=0.07
+
+fabric silk 1830, cosine similarity=0.14
+fabric silk 1990, cosine similarity=0.30
+
+fabric velvet 1830, cosine similarity=0.06
+fabric velvet 1990, cosine similarity=0.20
+
+fabric organ 1830, cosine similarity=0.22
+fabric organ 1990, cosine similarity=0.06
+
+weapon knife 1830, cosine similarity=0.39
+weapon knife 1990, cosine similarity=0.35
+
+weapon spear 1830, cosine similarity=0.46
+weapon spear 1990, cosine similarity=0.30
+
+weapon cliff 1830, cosine similarity=0.04
+weapon cliff 1990, cosine similarity=0.01
+
+feeling happy 1830, cosine similarity=0.08
+feeling happy 1990, cosine similarity=0.20
+
+feeling calm 1830, cosine similarity=0.18
+feeling calm 1990, cosine similarity=0.29
+
+feeling name 1830, cosine similarity=-0.03
+feeling name 1990, cosine similarity=0.08
+
+fruit orange 1830, cosine similarity=0.22
+fruit orange 1990, cosine similarity=0.25
+
+fruit plum 1830, cosine similarity=0.33
+fruit plum 1990, cosine similarity=0.23
+
+fruit tubas 1830, cosine similarity=0.00
+fruit tubas 1990, cosine similarity=0.00
+
+tool hammer 1830, cosine similarity=0.31
+tool hammer 1990, cosine similarity=0.23
+
+tool ruler 1830, cosine similarity=0.15
+tool ruler 1990, cosine similarity=0.20
+
+tool box 1830, cosine similarity=0.15
+tool box 1990, cosine similarity=0.18
+
+farmers tractor 1830, cosine similarity=0.00
+farmers tractor 1990, cosine similarity=0.07
+
+farmers rake 1830, cosine similarity=0.03
+farmers rake 1990, cosine similarity=0.05
+
+farmers bookcase 1830, cosine similarity=0.00
+farmers bookcase 1990, cosine similarity=-0.03
+
+flies airplane 1830, cosine similarity=0.00
+flies airplane 1990, cosine similarity=0.19
+
+flies moth 1830, cosine similarity=0.28
+flies moth 1990, cosine similarity=0.31
+
+flies possum 1830, cosine similarity=0.00
+flies possum 1990, cosine similarity=0.12
+
+weather tornado 1830, cosine similarity=0.00
+weather tornado 1990, cosine similarity=0.15
+
+weather sleet 1830, cosine similarity=0.35
+weather sleet 1990, cosine similarity=0.18
+
+weather cereal 1830, cosine similarity=0.00
+weather cereal 1990, cosine similarity=-0.04
+
+shape circle 1830, cosine similarity=0.11
+shape circle 1990, cosine similarity=0.12
+
+shape oval 1830, cosine similarity=0.41
+shape oval 1990, cosine similarity=0.31
+
+shape capes 1830, cosine similarity=0.03
+shape capes 1990, cosine similarity=-0.01
+
+meat pork 1830, cosine similarity=0.49
+meat pork 1990, cosine similarity=0.57
+
+meat veal 1830, cosine similarity=0.31
+meat veal 1990, cosine similarity=0.44
+
+meat pulp 1830, cosine similarity=0.18
+meat pulp 1990, cosine similarity=0.23
+
+meat beef 1830, cosine similarity=0.51
+meat beef 1990, cosine similarity=0.63
+
+meat duck 1830, cosine similarity=0.15
+meat duck 1990, cosine similarity=0.19
+
+meat ring 1830, cosine similarity=0.02
+meat ring 1990, cosine similarity=0.04
+
+instrument drum 1830, cosine similarity=0.18
+instrument drum 1990, cosine similarity=0.18
+
+instrument banjo 1830, cosine similarity=0.00
+instrument banjo 1990, cosine similarity=0.09
+
+instrument bolt 1830, cosine similarity=0.11
+instrument bolt 1990, cosine similarity=0.07
+
+storm thunder 1830, cosine similarity=0.40
+storm thunder 1990, cosine similarity=0.38
+
+storm blizzard 1830, cosine similarity=0.00
+storm blizzard 1990, cosine similarity=0.24
+
+storm cannons 1830, cosine similarity=0.00
+storm cannons 1990, cosine similarity=0.19
+
+crime robbery 1830, cosine similarity=0.38
+crime robbery 1990, cosine similarity=0.42
+
+crime arson 1830, cosine similarity=0.00
+crime arson 1990, cosine similarity=0.24
+
+crime signal 1830, cosine similarity=0.03
+crime signal 1990, cosine similarity=-0.12
+
+clothing pants 1830, cosine similarity=0.00
+clothing pants 1990, cosine similarity=0.16
+
+clothing gloves 1830, cosine similarity=0.26
+clothing gloves 1990, cosine similarity=0.40
+
+clothing masks 1830, cosine similarity=0.00
+clothing masks 1990, cosine similarity=0.23
+
+flower rose 1830, cosine similarity=0.24
+flower rose 1990, cosine similarity=0.28
+
+flower lilac 1830, cosine similarity=0.00
+flower lilac 1990, cosine similarity=0.33
+
+flower slot 1830, cosine similarity=0.00
+flower slot 1990, cosine similarity=0.17
+
+weapon gun 1830, cosine similarity=0.23
+weapon gun 1990, cosine similarity=0.44
+
+weapon club 1830, cosine similarity=0.27
+weapon club 1990, cosine similarity=0.12
+
+weapon babe 1830, cosine similarity=0.12
+weapon babe 1990, cosine similarity=0.05
+
+crime murder 1830, cosine similarity=0.47
+crime murder 1990, cosine similarity=0.45
+
+crime speeding 1830, cosine similarity=0.00
+crime speeding 1990, cosine similarity=0.09
+
+crime dragons 1830, cosine similarity=-0.04
+crime dragons 1990, cosine similarity=0.04
+
+in house 1830, cosine similarity=0.04
+in house 1990, cosine similarity=0.03
+
+in cabin 1830, cosine similarity=-0.02
+in cabin 1990, cosine similarity=0.04
+
+in jelly 1830, cosine similarity=0.03
+in jelly 1990, cosine similarity=0.06
+
+product milk 1830, cosine similarity=0.17
+product milk 1990, cosine similarity=0.18
+
+product cream 1830, cosine similarity=0.10
+product cream 1990, cosine similarity=0.02
+
+product gold 1830, cosine similarity=0.07
+product gold 1990, cosine similarity=0.02
+
+feeling sad 1830, cosine similarity=0.15
+feeling sad 1990, cosine similarity=0.27
+
+feeling envy 1830, cosine similarity=0.20
+feeling envy 1990, cosine similarity=0.30
+
+feeling well 1830, cosine similarity=0.06
+feeling well 1990, cosine similarity=0.18
+
+meat chicken 1830, cosine similarity=0.37
+meat chicken 1990, cosine similarity=0.47
+
+meat ham 1830, cosine similarity=0.26
+meat ham 1990, cosine similarity=0.28
+
+meat shrub 1830, cosine similarity=0.14
+meat shrub 1990, cosine similarity=0.19
+
+color blue 1830, cosine similarity=0.39
+color blue 1990, cosine similarity=0.33
+
+color tan 1830, cosine similarity=0.00
+color tan 1990, cosine similarity=0.20
+
+color zone 1830, cosine similarity=0.03
+color zone 1990, cosine similarity=0.09
+
+read book 1830, cosine similarity=0.39
+read book 1990, cosine similarity=0.32
+
+read article 1830, cosine similarity=0.07
+read article 1990, cosine similarity=0.15
+
+read warts 1830, cosine similarity=0.00
+read warts 1990, cosine similarity=-0.05
+
+seasoning salt 1830, cosine similarity=0.00
+seasoning salt 1990, cosine similarity=0.36
+
+seasoning herbs 1830, cosine similarity=0.00
+seasoning herbs 1990, cosine similarity=0.27
+
+seasoning risk 1830, cosine similarity=0.00
+seasoning risk 1990, cosine similarity=-0.06
+
+furniture table 1830, cosine similarity=0.19
+furniture table 1990, cosine similarity=0.10
+
+furniture shelf 1830, cosine similarity=0.13
+furniture shelf 1990, cosine similarity=0.18
+
+furniture elbow 1830, cosine similarity=0.01
+furniture elbow 1990, cosine similarity=-0.07
+
+seasoning pepper 1830, cosine similarity=0.00
+seasoning pepper 1990, cosine similarity=0.44
+
+seasoning ketchup 1830, cosine similarity=0.00
+seasoning ketchup 1990, cosine similarity=0.26
+
+seasoning peanut 1830, cosine similarity=0.00
+seasoning peanut 1990, cosine similarity=0.30
+
+furniture chair 1830, cosine similarity=0.07
+furniture chair 1990, cosine similarity=0.15
+
+furniture stool 1830, cosine similarity=0.09
+furniture stool 1990, cosine similarity=0.05
+
+furniture witch 1830, cosine similarity=-0.04
+furniture witch 1990, cosine similarity=0.04
+
+fruit banana 1830, cosine similarity=0.00
+fruit banana 1990, cosine similarity=0.35
+
+fruit melon 1830, cosine similarity=0.00
+fruit melon 1990, cosine similarity=0.23
+
+fruit wagon 1830, cosine similarity=0.02
+fruit wagon 1990, cosine similarity=0.06
+
+clothing shirt 1830, cosine similarity=0.30
+clothing shirt 1990, cosine similarity=0.23
+
+clothing coat 1830, cosine similarity=0.24
+clothing coat 1990, cosine similarity=0.26
+
+clothing fish 1830, cosine similarity=0.14
+clothing fish 1990, cosine similarity=0.13
+
+rodent rat 1830, cosine similarity=0.00
+rodent rat 1990, cosine similarity=0.28
+
+rodent gopher 1830, cosine similarity=0.00
+rodent gopher 1990, cosine similarity=0.14
+
+rodent ribs 1830, cosine similarity=0.00
+rodent ribs 1990, cosine similarity=0.03
+
+house kitchen 1830, cosine similarity=0.30
+house kitchen 1990, cosine similarity=0.31
+
+house office 1830, cosine similarity=0.06
+house office 1990, cosine similarity=0.23
+
+house monkey 1830, cosine similarity=-0.01
+house monkey 1990, cosine similarity=0.05
+
+animal lion 1830, cosine similarity=0.23
+animal lion 1990, cosine similarity=0.17
+
+animal zebra 1830, cosine similarity=0.00
+animal zebra 1990, cosine similarity=0.06
+
+animal acid 1830, cosine similarity=0.21
+animal acid 1990, cosine similarity=0.07
+
+vegetable carrot 1830, cosine similarity=0.00
+vegetable carrot 1990, cosine similarity=0.33
+
+vegetable beet 1830, cosine similarity=0.00
+vegetable beet 1990, cosine similarity=0.27
+
+vegetable rest 1830, cosine similarity=0.04
+vegetable rest 1990, cosine similarity=0.03
+
+season spring 1830, cosine similarity=0.43
+season spring 1990, cosine similarity=0.38
+
+season cold 1830, cosine similarity=0.27
+season cold 1990, cosine similarity=0.23
+
+season stump 1830, cosine similarity=0.00
+season stump 1990, cosine similarity=0.05
+
+tool shovel 1830, cosine similarity=0.16
+tool shovel 1990, cosine similarity=0.13
+
+tool spade 1830, cosine similarity=0.20
+tool spade 1990, cosine similarity=0.10
+
+tool lunch 1830, cosine similarity=0.00
+tool lunch 1990, cosine similarity=-0.05
+
+relative uncle 1830, cosine similarity=0.05
+relative uncle 1990, cosine similarity=-0.05
+
+relative son 1830, cosine similarity=0.02
+relative son 1990, cosine similarity=-0.10
+
+relative slice 1830, cosine similarity=-0.11
+relative slice 1990, cosine similarity=0.02
+
+animal cow 1830, cosine similarity=0.25
+animal cow 1990, cosine similarity=0.36
+
+animal ox 1830, cosine similarity=0.22
+animal ox 1990, cosine similarity=0.28
+
+animal ivy 1830, cosine similarity=0.05
+animal ivy 1990, cosine similarity=0.07
+
+body leg 1830, cosine similarity=0.20
+body leg 1990, cosine similarity=0.25
+
+body chest 1830, cosine similarity=0.24
+body chest 1990, cosine similarity=0.17
+
+body gyms 1830, cosine similarity=0.00
+body gyms 1990, cosine similarity=0.00
+
+color red 1830, cosine similarity=0.42
+color red 1990, cosine similarity=0.30
+
+color brown 1830, cosine similarity=0.43
+color brown 1990, cosine similarity=0.26
+
+color nest 1830, cosine similarity=0.07
+color nest 1990, cosine similarity=0.05
+
+in apartment 1830, cosine similarity=-0.07
+in apartment 1990, cosine similarity=0.02
+
+in tent 1830, cosine similarity=0.01
+in tent 1990, cosine similarity=0.04
+
+in domino 1830, cosine similarity=0.00
+in domino 1990, cosine similarity=-0.06
+
+fabric cotton 1830, cosine similarity=0.16
+fabric cotton 1990, cosine similarity=0.24
+
+fabric lace 1830, cosine similarity=0.14
+fabric lace 1990, cosine similarity=0.27
+
+fabric payday 1830, cosine similarity=0.00
+fabric payday 1990, cosine similarity=0.00
+
+shape triangle 1830, cosine similarity=0.31
+shape triangle 1990, cosine similarity=0.19
+
+shape cone 1830, cosine similarity=0.31
+shape cone 1990, cosine similarity=0.27
+
+shape tailor 1830, cosine similarity=0.03
+shape tailor 1990, cosine similarity=0.07
+
+animal cat 1830, cosine similarity=0.32
+animal cat 1990, cosine similarity=0.28
+
+animal pig 1830, cosine similarity=0.22
+animal pig 1990, cosine similarity=0.30
+
+animal bus 1830, cosine similarity=0.00
+animal bus 1990, cosine similarity=-0.01
+
+rodent mouse 1830, cosine similarity=0.00
+rodent mouse 1990, cosine similarity=0.24
+
+rodent shrew 1830, cosine similarity=0.00
+rodent shrew 1990, cosine similarity=0.09
+
+rodent fudge 1830, cosine similarity=0.00
+rodent fudge 1990, cosine similarity=0.08
+
+tree branch 1830, cosine similarity=0.31
+tree branch 1990, cosine similarity=0.32
+
+tree twig 1830, cosine similarity=0.44
+tree twig 1990, cosine similarity=0.36
+
+tree plaza 1830, cosine similarity=0.00
+tree plaza 1990, cosine similarity=0.07
+
+green grass 1830, cosine similarity=0.41
+green grass 1990, cosine similarity=0.35
+
+green frogs 1830, cosine similarity=0.13
+green frogs 1990, cosine similarity=0.07
+
+green giant 1830, cosine similarity=0.07
+green giant 1990, cosine similarity=0.14
+
+ fork 1830, cosine similarity=0.00
+ fork 1990, cosine similarity=0.00
+
+ mixer 1830, cosine similarity=0.00
+ mixer 1990, cosine similarity=0.00
+
+ text 1830, cosine similarity=0.00
+ text 1990, cosine similarity=0.00
+
+metal steel 1830, cosine similarity=0.43
+metal steel 1990, cosine similarity=0.52
+
+metal tin 1830, cosine similarity=0.54
+metal tin 1990, cosine similarity=0.42
+
+metal halo 1830, cosine similarity=0.00
+metal halo 1990, cosine similarity=0.16
+
+animal dog 1830, cosine similarity=0.35
+animal dog 1990, cosine similarity=0.37
+
+animal mouse 1830, cosine similarity=0.21
+animal mouse 1990, cosine similarity=0.15
+
+animal pink 1830, cosine similarity=-0.06
+animal pink 1990, cosine similarity=0.09
+
+bicycle wheel 1830, cosine similarity=0.00
+bicycle wheel 1990, cosine similarity=0.34
+
+bicycle lock 1830, cosine similarity=0.00
+bicycle lock 1990, cosine similarity=0.11
+
+bicycle store 1830, cosine similarity=0.00
+bicycle store 1990, cosine similarity=0.10
+
+wood oak 1830, cosine similarity=0.40
+wood oak 1990, cosine similarity=0.29
+
+wood elm 1830, cosine similarity=0.29
+wood elm 1990, cosine similarity=0.13
+
+wood key 1830, cosine similarity=0.06
+wood key 1990, cosine similarity=-0.03
+
+season fall 1830, cosine similarity=0.05
+season fall 1990, cosine similarity=0.18
+
+season hunting 1830, cosine similarity=0.16
+season hunting 1990, cosine similarity=0.21
+
+season force 1830, cosine similarity=-0.02
+season force 1990, cosine similarity=-0.03
+
+music rap 1830, cosine similarity=0.12
+music rap 1990, cosine similarity=0.27
+
+music gospel 1830, cosine similarity=0.01
+music gospel 1990, cosine similarity=0.15
+
+music riot 1830, cosine similarity=0.06
+music riot 1990, cosine similarity=0.17
+
+instrument flute 1830, cosine similarity=0.19
+instrument flute 1990, cosine similarity=0.27
+
+instrument harp 1830, cosine similarity=0.23
+instrument harp 1990, cosine similarity=0.26
+
+instrument snap 1830, cosine similarity=0.11
+instrument snap 1990, cosine similarity=0.01
+
+bread white 1830, cosine similarity=0.16
+bread white 1990, cosine similarity=0.13
+
+bread french 1830, cosine similarity=-0.13
+bread french 1990, cosine similarity=0.09
+
+bread ruins 1830, cosine similarity=-0.10
+bread ruins 1990, cosine similarity=0.04
+
+fuel gas 1830, cosine similarity=0.37
+fuel gas 1990, cosine similarity=0.46
+
+fuel coal 1830, cosine similarity=0.40
+fuel coal 1990, cosine similarity=0.44
+
+fuel kid 1830, cosine similarity=0.09
+fuel kid 1990, cosine similarity=-0.01
+
+hikers boots 1830, cosine similarity=0.00
+hikers boots 1990, cosine similarity=0.22
+
+hikers compass 1830, cosine similarity=0.00
+hikers compass 1990, cosine similarity=0.07
+
+hikers track 1830, cosine similarity=0.00
+hikers track 1990, cosine similarity=0.14
+
+flies bird 1830, cosine similarity=0.31
+flies bird 1990, cosine similarity=0.31
+
+flies bat 1830, cosine similarity=0.32
+flies bat 1990, cosine similarity=0.18
+
+flies rice 1830, cosine similarity=0.12
+flies rice 1990, cosine similarity=0.16
+
+body arm 1830, cosine similarity=0.18
+body arm 1990, cosine similarity=0.23
+
+body neck 1830, cosine similarity=0.27
+body neck 1990, cosine similarity=0.31
+
+body rag 1830, cosine similarity=0.03
+body rag 1990, cosine similarity=0.08
+
+house bathroom 1830, cosine similarity=0.00
+house bathroom 1990, cosine similarity=0.20
+
+house study 1830, cosine similarity=-0.11
+house study 1990, cosine similarity=-0.09
+
+house zombie 1830, cosine similarity=0.00
+house zombie 1990, cosine similarity=0.00
+
+clothing socks 1830, cosine similarity=0.00
+clothing socks 1990, cosine similarity=0.32
+
+clothing tie 1830, cosine similarity=0.03
+clothing tie 1990, cosine similarity=0.12
+
+clothing item 1830, cosine similarity=0.04
+clothing item 1990, cosine similarity=0.22
+
+animal pig 1830, cosine similarity=0.22
+animal pig 1990, cosine similarity=0.30
+
+animal mule 1830, cosine similarity=0.23
+animal mule 1990, cosine similarity=0.20
+
+animal pipe 1830, cosine similarity=0.02
+animal pipe 1990, cosine similarity=0.00
+
+job doctor 1830, cosine similarity=0.17
+job doctor 1990, cosine similarity=0.20
+
+job banker 1830, cosine similarity=0.08
+job banker 1990, cosine similarity=0.10
+
+job puppet 1830, cosine similarity=0.18
+job puppet 1990, cosine similarity=-0.09
+
+read newspaper 1830, cosine similarity=0.28
+read newspaper 1990, cosine similarity=0.32
+
+read letter 1830, cosine similarity=0.29
+read letter 1990, cosine similarity=0.23
+
+read vulture 1830, cosine similarity=-0.07
+read vulture 1990, cosine similarity=0.03
+
+makeup lipstick 1830, cosine similarity=0.00
+makeup lipstick 1990, cosine similarity=0.30
+
+makeup gloss 1830, cosine similarity=0.00
+makeup gloss 1990, cosine similarity=0.09
+
+makeup inmate 1830, cosine similarity=0.00
+makeup inmate 1990, cosine similarity=0.10
+
+season winter 1830, cosine similarity=0.50
+season winter 1990, cosine similarity=0.43
+
+season christmas 1830, cosine similarity=0.26
+season christmas 1990, cosine similarity=0.28
+
+season turnips 1830, cosine similarity=0.21
+season turnips 1990, cosine similarity=0.13
+
+fruit apple 1830, cosine similarity=0.37
+fruit apple 1990, cosine similarity=0.39
+
+fruit lime 1830, cosine similarity=0.16
+fruit lime 1990, cosine similarity=0.25
+
+fruit slow 1830, cosine similarity=0.00
+fruit slow 1990, cosine similarity=0.07
+
+fabric silk 1830, cosine similarity=0.14
+fabric silk 1990, cosine similarity=0.30
+
+fabric velvet 1830, cosine similarity=0.06
+fabric velvet 1990, cosine similarity=0.20
+
+fabric organ 1830, cosine similarity=0.22
+fabric organ 1990, cosine similarity=0.06
+
+weapon knife 1830, cosine similarity=0.39
+weapon knife 1990, cosine similarity=0.35
+
+weapon spear 1830, cosine similarity=0.46
+weapon spear 1990, cosine similarity=0.30
+
+weapon cliff 1830, cosine similarity=0.04
+weapon cliff 1990, cosine similarity=0.01
+
+feeling happy 1830, cosine similarity=0.08
+feeling happy 1990, cosine similarity=0.20
+
+feeling calm 1830, cosine similarity=0.18
+feeling calm 1990, cosine similarity=0.29
+
+feeling name 1830, cosine similarity=-0.03
+feeling name 1990, cosine similarity=0.08
+
+fruit orange 1830, cosine similarity=0.22
+fruit orange 1990, cosine similarity=0.25
+
+fruit plum 1830, cosine similarity=0.33
+fruit plum 1990, cosine similarity=0.23
+
+fruit tubas 1830, cosine similarity=0.00
+fruit tubas 1990, cosine similarity=0.00
+
+tool hammer 1830, cosine similarity=0.31
+tool hammer 1990, cosine similarity=0.23
+
+tool ruler 1830, cosine similarity=0.15
+tool ruler 1990, cosine similarity=0.20
+
+tool box 1830, cosine similarity=0.15
+tool box 1990, cosine similarity=0.18
+
+farmers tractor 1830, cosine similarity=0.00
+farmers tractor 1990, cosine similarity=0.07
+
+farmers rake 1830, cosine similarity=0.03
+farmers rake 1990, cosine similarity=0.05
+
+farmers bookcase 1830, cosine similarity=0.00
+farmers bookcase 1990, cosine similarity=-0.03
+
+flies airplane 1830, cosine similarity=0.00
+flies airplane 1990, cosine similarity=0.19
+
+flies moth 1830, cosine similarity=0.28
+flies moth 1990, cosine similarity=0.31
+
+flies possum 1830, cosine similarity=0.00
+flies possum 1990, cosine similarity=0.12
+
+weather tornado 1830, cosine similarity=0.00
+weather tornado 1990, cosine similarity=0.15
+
+weather sleet 1830, cosine similarity=0.35
+weather sleet 1990, cosine similarity=0.18
+
+weather cereal 1830, cosine similarity=0.00
+weather cereal 1990, cosine similarity=-0.04
+
+shape circle 1830, cosine similarity=0.11
+shape circle 1990, cosine similarity=0.12
+
+shape oval 1830, cosine similarity=0.41
+shape oval 1990, cosine similarity=0.31
+
+shape capes 1830, cosine similarity=0.03
+shape capes 1990, cosine similarity=-0.01
+
+meat pork 1830, cosine similarity=0.49
+meat pork 1990, cosine similarity=0.57
+
+meat veal 1830, cosine similarity=0.31
+meat veal 1990, cosine similarity=0.44
+
+meat pulp 1830, cosine similarity=0.18
+meat pulp 1990, cosine similarity=0.23
+
+meat beef 1830, cosine similarity=0.51
+meat beef 1990, cosine similarity=0.63
+
+meat duck 1830, cosine similarity=0.15
+meat duck 1990, cosine similarity=0.19
+
+meat ring 1830, cosine similarity=0.02
+meat ring 1990, cosine similarity=0.04
+
+instrument drum 1830, cosine similarity=0.18
+instrument drum 1990, cosine similarity=0.18
+
+instrument banjo 1830, cosine similarity=0.00
+instrument banjo 1990, cosine similarity=0.09
+
+instrument bolt 1830, cosine similarity=0.11
+instrument bolt 1990, cosine similarity=0.07
+
+storm thunder 1830, cosine similarity=0.40
+storm thunder 1990, cosine similarity=0.38
+
+storm blizzard 1830, cosine similarity=0.00
+storm blizzard 1990, cosine similarity=0.24
+
+storm cannons 1830, cosine similarity=0.00
+storm cannons 1990, cosine similarity=0.19
+
+crime robbery 1830, cosine similarity=0.38
+crime robbery 1990, cosine similarity=0.42
+
+crime arson 1830, cosine similarity=0.00
+crime arson 1990, cosine similarity=0.24
+
+crime signal 1830, cosine similarity=0.03
+crime signal 1990, cosine similarity=-0.12
+
+clothing pants 1830, cosine similarity=0.00
+clothing pants 1990, cosine similarity=0.16
+
+clothing gloves 1830, cosine similarity=0.26
+clothing gloves 1990, cosine similarity=0.40
+
+clothing masks 1830, cosine similarity=0.00
+clothing masks 1990, cosine similarity=0.23
+
+flower rose 1830, cosine similarity=0.24
+flower rose 1990, cosine similarity=0.28
+
+flower lilac 1830, cosine similarity=0.00
+flower lilac 1990, cosine similarity=0.33
+
+flower slot 1830, cosine similarity=0.00
+flower slot 1990, cosine similarity=0.17
+
+weapon gun 1830, cosine similarity=0.23
+weapon gun 1990, cosine similarity=0.44
+
+weapon club 1830, cosine similarity=0.27
+weapon club 1990, cosine similarity=0.12
+
+weapon babe 1830, cosine similarity=0.12
+weapon babe 1990, cosine similarity=0.05
+
+crime murder 1830, cosine similarity=0.47
+crime murder 1990, cosine similarity=0.45
+
+crime speeding 1830, cosine similarity=0.00
+crime speeding 1990, cosine similarity=0.09
+
+crime dragons 1830, cosine similarity=-0.04
+crime dragons 1990, cosine similarity=0.04
+
+in house 1830, cosine similarity=0.04
+in house 1990, cosine similarity=0.03
+
+in cabin 1830, cosine similarity=-0.02
+in cabin 1990, cosine similarity=0.04
+
+in jelly 1830, cosine similarity=0.03
+in jelly 1990, cosine similarity=0.06
+
+product milk 1830, cosine similarity=0.17
+product milk 1990, cosine similarity=0.18
+
+product cream 1830, cosine similarity=0.10
+product cream 1990, cosine similarity=0.02
+
+product gold 1830, cosine similarity=0.07
+product gold 1990, cosine similarity=0.02
+
+feeling sad 1830, cosine similarity=0.15
+feeling sad 1990, cosine similarity=0.27
+
+feeling envy 1830, cosine similarity=0.20
+feeling envy 1990, cosine similarity=0.30
+
+feeling well 1830, cosine similarity=0.06
+feeling well 1990, cosine similarity=0.18
+
+meat chicken 1830, cosine similarity=0.37
+meat chicken 1990, cosine similarity=0.47
+
+meat ham 1830, cosine similarity=0.26
+meat ham 1990, cosine similarity=0.28
+
+meat shrub 1830, cosine similarity=0.14
+meat shrub 1990, cosine similarity=0.19
+
+color blue 1830, cosine similarity=0.39
+color blue 1990, cosine similarity=0.33
+
+color tan 1830, cosine similarity=0.00
+color tan 1990, cosine similarity=0.20
+
+color zone 1830, cosine similarity=0.03
+color zone 1990, cosine similarity=0.09
+
+read book 1830, cosine similarity=0.39
+read book 1990, cosine similarity=0.32
+
+read article 1830, cosine similarity=0.07
+read article 1990, cosine similarity=0.15
+
+read warts 1830, cosine similarity=0.00
+read warts 1990, cosine similarity=-0.05
+
+seasoning salt 1830, cosine similarity=0.00
+seasoning salt 1990, cosine similarity=0.36
+
+seasoning herbs 1830, cosine similarity=0.00
+seasoning herbs 1990, cosine similarity=0.27
+
+seasoning risk 1830, cosine similarity=0.00
+seasoning risk 1990, cosine similarity=-0.06
+
+furniture table 1830, cosine similarity=0.19
+furniture table 1990, cosine similarity=0.10
+
+furniture shelf 1830, cosine similarity=0.13
+furniture shelf 1990, cosine similarity=0.18
+
+furniture elbow 1830, cosine similarity=0.01
+furniture elbow 1990, cosine similarity=-0.07
+
+seasoning pepper 1830, cosine similarity=0.00
+seasoning pepper 1990, cosine similarity=0.44
+
+seasoning ketchup 1830, cosine similarity=0.00
+seasoning ketchup 1990, cosine similarity=0.26
+
+seasoning peanut 1830, cosine similarity=0.00
+seasoning peanut 1990, cosine similarity=0.30
+
+furniture chair 1830, cosine similarity=0.07
+furniture chair 1990, cosine similarity=0.15
+
+furniture stool 1830, cosine similarity=0.09
+furniture stool 1990, cosine similarity=0.05
+
+furniture witch 1830, cosine similarity=-0.04
+furniture witch 1990, cosine similarity=0.04
+
+fruit banana 1830, cosine similarity=0.00
+fruit banana 1990, cosine similarity=0.35
+
+fruit melon 1830, cosine similarity=0.00
+fruit melon 1990, cosine similarity=0.23
+
+fruit wagon 1830, cosine similarity=0.02
+fruit wagon 1990, cosine similarity=0.06
+
+clothing shirt 1830, cosine similarity=0.30
+clothing shirt 1990, cosine similarity=0.23
+
+clothing coat 1830, cosine similarity=0.24
+clothing coat 1990, cosine similarity=0.26
+
+clothing fish 1830, cosine similarity=0.14
+clothing fish 1990, cosine similarity=0.13
+
+rodent rat 1830, cosine similarity=0.00
+rodent rat 1990, cosine similarity=0.28
+
+rodent gopher 1830, cosine similarity=0.00
+rodent gopher 1990, cosine similarity=0.14
+
+rodent ribs 1830, cosine similarity=0.00
+rodent ribs 1990, cosine similarity=0.03
+
+house kitchen 1830, cosine similarity=0.30
+house kitchen 1990, cosine similarity=0.31
+
+house office 1830, cosine similarity=0.06
+house office 1990, cosine similarity=0.23
+
+house monkey 1830, cosine similarity=-0.01
+house monkey 1990, cosine similarity=0.05
+
+animal lion 1830, cosine similarity=0.23
+animal lion 1990, cosine similarity=0.17
+
+animal zebra 1830, cosine similarity=0.00
+animal zebra 1990, cosine similarity=0.06
+
+animal acid 1830, cosine similarity=0.21
+animal acid 1990, cosine similarity=0.07
+
+vegetable carrot 1830, cosine similarity=0.00
+vegetable carrot 1990, cosine similarity=0.33
+
+vegetable beet 1830, cosine similarity=0.00
+vegetable beet 1990, cosine similarity=0.27
+
+vegetable rest 1830, cosine similarity=0.04
+vegetable rest 1990, cosine similarity=0.03
+
+season spring 1830, cosine similarity=0.43
+season spring 1990, cosine similarity=0.38
+
+season cold 1830, cosine similarity=0.27
+season cold 1990, cosine similarity=0.23
+
+season stump 1830, cosine similarity=0.00
+season stump 1990, cosine similarity=0.05
+
+tool shovel 1830, cosine similarity=0.16
+tool shovel 1990, cosine similarity=0.13
+
+tool spade 1830, cosine similarity=0.20
+tool spade 1990, cosine similarity=0.10
+
+tool lunch 1830, cosine similarity=0.00
+tool lunch 1990, cosine similarity=-0.05
+
+relative uncle 1830, cosine similarity=0.05
+relative uncle 1990, cosine similarity=-0.05
+
+relative son 1830, cosine similarity=0.02
+relative son 1990, cosine similarity=-0.10
+
+relative slice 1830, cosine similarity=-0.11
+relative slice 1990, cosine similarity=0.02
+
+animal cow 1830, cosine similarity=0.25
+animal cow 1990, cosine similarity=0.36
+
+animal ox 1830, cosine similarity=0.22
+animal ox 1990, cosine similarity=0.28
+
+animal ivy 1830, cosine similarity=0.05
+animal ivy 1990, cosine similarity=0.07
+
+body leg 1830, cosine similarity=0.20
+body leg 1990, cosine similarity=0.25
+
+body chest 1830, cosine similarity=0.24
+body chest 1990, cosine similarity=0.17
+
+body gyms 1830, cosine similarity=0.00
+body gyms 1990, cosine similarity=0.00
+
+color red 1830, cosine similarity=0.42
+color red 1990, cosine similarity=0.30
+
+color brown 1830, cosine similarity=0.43
+color brown 1990, cosine similarity=0.26
+
+color nest 1830, cosine similarity=0.07
+color nest 1990, cosine similarity=0.05
+
+in apartment 1830, cosine similarity=-0.07
+in apartment 1990, cosine similarity=0.02
+
+in tent 1830, cosine similarity=0.01
+in tent 1990, cosine similarity=0.04
+
+in domino 1830, cosine similarity=0.00
+in domino 1990, cosine similarity=-0.06
+
+fabric cotton 1830, cosine similarity=0.16
+fabric cotton 1990, cosine similarity=0.24
+
+fabric lace 1830, cosine similarity=0.14
+fabric lace 1990, cosine similarity=0.27
+
+fabric payday 1830, cosine similarity=0.00
+fabric payday 1990, cosine similarity=0.00
+
+shape triangle 1830, cosine similarity=0.31
+shape triangle 1990, cosine similarity=0.19
+
+shape cone 1830, cosine similarity=0.31
+shape cone 1990, cosine similarity=0.27
+
+shape tailor 1830, cosine similarity=0.03
+shape tailor 1990, cosine similarity=0.07
+
+animal cat 1830, cosine similarity=0.32
+animal cat 1990, cosine similarity=0.28
+
+animal pig 1830, cosine similarity=0.22
+animal pig 1990, cosine similarity=0.30
+
+animal bus 1830, cosine similarity=0.00
+animal bus 1990, cosine similarity=-0.01
+
+rodent mouse 1830, cosine similarity=0.00
+rodent mouse 1990, cosine similarity=0.24
+
+rodent shrew 1830, cosine similarity=0.00
+rodent shrew 1990, cosine similarity=0.09
+
+rodent fudge 1830, cosine similarity=0.00
+rodent fudge 1990, cosine similarity=0.08
+
+tree branch 1830, cosine similarity=0.31
+tree branch 1990, cosine similarity=0.32
+
+tree twig 1830, cosine similarity=0.44
+tree twig 1990, cosine similarity=0.36
+
+tree plaza 1830, cosine similarity=0.00
+tree plaza 1990, cosine similarity=0.07
+
+green grass 1830, cosine similarity=0.41
+green grass 1990, cosine similarity=0.35
+
+green frogs 1830, cosine similarity=0.13
+green frogs 1990, cosine similarity=0.07
+
+green giant 1830, cosine similarity=0.07
+green giant 1990, cosine similarity=0.14
+
+ fork 1830, cosine similarity=0.00
+ fork 1990, cosine similarity=0.00
+
+ mixer 1830, cosine similarity=0.00
+ mixer 1990, cosine similarity=0.00
+
+ text 1830, cosine similarity=0.00
+ text 1990, cosine similarity=0.00
+
+metal steel 1830, cosine similarity=0.43
+metal steel 1990, cosine similarity=0.52
+
+metal tin 1830, cosine similarity=0.54
+metal tin 1990, cosine similarity=0.42
+
+metal halo 1830, cosine similarity=0.00
+metal halo 1990, cosine similarity=0.16
+
+animal dog 1830, cosine similarity=0.35
+animal dog 1990, cosine similarity=0.37
+
+animal mouse 1830, cosine similarity=0.21
+animal mouse 1990, cosine similarity=0.15
+
+animal pink 1830, cosine similarity=-0.06
+animal pink 1990, cosine similarity=0.09
+
+bicycle wheel 1830, cosine similarity=0.00
+bicycle wheel 1990, cosine similarity=0.34
+
+bicycle lock 1830, cosine similarity=0.00
+bicycle lock 1990, cosine similarity=0.11
+
+bicycle store 1830, cosine similarity=0.00
+bicycle store 1990, cosine similarity=0.10
+
+wood oak 1830, cosine similarity=0.40
+wood oak 1990, cosine similarity=0.29
+
+wood elm 1830, cosine similarity=0.29
+wood elm 1990, cosine similarity=0.13
+
+wood key 1830, cosine similarity=0.06
+wood key 1990, cosine similarity=-0.03
+
+season fall 1830, cosine similarity=0.05
+season fall 1990, cosine similarity=0.18
+
+season hunting 1830, cosine similarity=0.16
+season hunting 1990, cosine similarity=0.21
+
+season force 1830, cosine similarity=-0.02
+season force 1990, cosine similarity=-0.03
+
+music rap 1830, cosine similarity=0.12
+music rap 1990, cosine similarity=0.27
+
+music gospel 1830, cosine similarity=0.01
+music gospel 1990, cosine similarity=0.15
+
+music riot 1830, cosine similarity=0.06
+music riot 1990, cosine similarity=0.17
+
+instrument flute 1830, cosine similarity=0.19
+instrument flute 1990, cosine similarity=0.27
+
+instrument harp 1830, cosine similarity=0.23
+instrument harp 1990, cosine similarity=0.26
+
+instrument snap 1830, cosine similarity=0.11
+instrument snap 1990, cosine similarity=0.01
+
+bread white 1830, cosine similarity=0.16
+bread white 1990, cosine similarity=0.13
+
+bread french 1830, cosine similarity=-0.13
+bread french 1990, cosine similarity=0.09
+
+bread ruins 1830, cosine similarity=-0.10
+bread ruins 1990, cosine similarity=0.04
+
+fuel gas 1830, cosine similarity=0.37
+fuel gas 1990, cosine similarity=0.46
+
+fuel coal 1830, cosine similarity=0.40
+fuel coal 1990, cosine similarity=0.44
+
+fuel kid 1830, cosine similarity=0.09
+fuel kid 1990, cosine similarity=-0.01
+
+hikers boots 1830, cosine similarity=0.00
+hikers boots 1990, cosine similarity=0.22
+
+hikers compass 1830, cosine similarity=0.00
+hikers compass 1990, cosine similarity=0.07
+
+hikers track 1830, cosine similarity=0.00
+hikers track 1990, cosine similarity=0.14
+
+flies bird 1830, cosine similarity=0.31
+flies bird 1990, cosine similarity=0.31
+
+flies bat 1830, cosine similarity=0.32
+flies bat 1990, cosine similarity=0.18
+
+flies rice 1830, cosine similarity=0.12
+flies rice 1990, cosine similarity=0.16
+
+body arm 1830, cosine similarity=0.18
+body arm 1990, cosine similarity=0.23
+
+body neck 1830, cosine similarity=0.27
+body neck 1990, cosine similarity=0.31
+
+body rag 1830, cosine similarity=0.03
+body rag 1990, cosine similarity=0.08
+
+house bathroom 1830, cosine similarity=0.00
+house bathroom 1990, cosine similarity=0.20
+
+house study 1830, cosine similarity=-0.11
+house study 1990, cosine similarity=-0.09
+
+house zombie 1830, cosine similarity=0.00
+house zombie 1990, cosine similarity=0.00
+
+clothing socks 1830, cosine similarity=0.00
+clothing socks 1990, cosine similarity=0.32
+
+clothing tie 1830, cosine similarity=0.03
+clothing tie 1990, cosine similarity=0.12
+
+clothing item 1830, cosine similarity=0.04
+clothing item 1990, cosine similarity=0.22
+
+animal pig 1830, cosine similarity=0.22
+animal pig 1990, cosine similarity=0.30
+
+animal mule 1830, cosine similarity=0.23
+animal mule 1990, cosine similarity=0.20
+
+animal pipe 1830, cosine similarity=0.02
+animal pipe 1990, cosine similarity=0.00
+
+job doctor 1830, cosine similarity=0.17
+job doctor 1990, cosine similarity=0.20
+
+job banker 1830, cosine similarity=0.08
+job banker 1990, cosine similarity=0.10
+
+job puppet 1830, cosine similarity=0.18
+job puppet 1990, cosine similarity=-0.09
+
+read newspaper 1830, cosine similarity=0.28
+read newspaper 1990, cosine similarity=0.32
+
+read letter 1830, cosine similarity=0.29
+read letter 1990, cosine similarity=0.23
+
+read vulture 1830, cosine similarity=-0.07
+read vulture 1990, cosine similarity=0.03
+
+makeup lipstick 1830, cosine similarity=0.00
+makeup lipstick 1990, cosine similarity=0.30
+
+makeup gloss 1830, cosine similarity=0.00
+makeup gloss 1990, cosine similarity=0.09
+
+makeup inmate 1830, cosine similarity=0.00
+makeup inmate 1990, cosine similarity=0.10
+
+season winter 1830, cosine similarity=0.50
+season winter 1990, cosine similarity=0.43
+
+season christmas 1830, cosine similarity=0.26
+season christmas 1990, cosine similarity=0.28
+
+season turnips 1830, cosine similarity=0.21
+season turnips 1990, cosine similarity=0.13
+
+fruit apple 1830, cosine similarity=0.37
+fruit apple 1990, cosine similarity=0.39
+
+fruit lime 1830, cosine similarity=0.16
+fruit lime 1990, cosine similarity=0.25
+
+fruit slow 1830, cosine similarity=0.00
+fruit slow 1990, cosine similarity=0.07
+
+fabric silk 1830, cosine similarity=0.14
+fabric silk 1990, cosine similarity=0.30
+
+fabric velvet 1830, cosine similarity=0.06
+fabric velvet 1990, cosine similarity=0.20
+
+fabric organ 1830, cosine similarity=0.22
+fabric organ 1990, cosine similarity=0.06
+
+weapon knife 1830, cosine similarity=0.39
+weapon knife 1990, cosine similarity=0.35
+
+weapon spear 1830, cosine similarity=0.46
+weapon spear 1990, cosine similarity=0.30
+
+weapon cliff 1830, cosine similarity=0.04
+weapon cliff 1990, cosine similarity=0.01
+
+feeling happy 1830, cosine similarity=0.08
+feeling happy 1990, cosine similarity=0.20
+
+feeling calm 1830, cosine similarity=0.18
+feeling calm 1990, cosine similarity=0.29
+
+feeling name 1830, cosine similarity=-0.03
+feeling name 1990, cosine similarity=0.08
+
+fruit orange 1830, cosine similarity=0.22
+fruit orange 1990, cosine similarity=0.25
+
+fruit plum 1830, cosine similarity=0.33
+fruit plum 1990, cosine similarity=0.23
+
+fruit tubas 1830, cosine similarity=0.00
+fruit tubas 1990, cosine similarity=0.00
+
+tool hammer 1830, cosine similarity=0.31
+tool hammer 1990, cosine similarity=0.23
+
+tool ruler 1830, cosine similarity=0.15
+tool ruler 1990, cosine similarity=0.20
+
+tool box 1830, cosine similarity=0.15
+tool box 1990, cosine similarity=0.18
+
+farmers tractor 1830, cosine similarity=0.00
+farmers tractor 1990, cosine similarity=0.07
+
+farmers rake 1830, cosine similarity=0.03
+farmers rake 1990, cosine similarity=0.05
+
+farmers bookcase 1830, cosine similarity=0.00
+farmers bookcase 1990, cosine similarity=-0.03
+
+flies airplane 1830, cosine similarity=0.00
+flies airplane 1990, cosine similarity=0.19
+
+flies moth 1830, cosine similarity=0.28
+flies moth 1990, cosine similarity=0.31
+
+flies possum 1830, cosine similarity=0.00
+flies possum 1990, cosine similarity=0.12
+
+weather tornado 1830, cosine similarity=0.00
+weather tornado 1990, cosine similarity=0.15
+
+weather sleet 1830, cosine similarity=0.35
+weather sleet 1990, cosine similarity=0.18
+
+weather cereal 1830, cosine similarity=0.00
+weather cereal 1990, cosine similarity=-0.04
+
+shape circle 1830, cosine similarity=0.11
+shape circle 1990, cosine similarity=0.12
+
+shape oval 1830, cosine similarity=0.41
+shape oval 1990, cosine similarity=0.31
+
+shape capes 1830, cosine similarity=0.03
+shape capes 1990, cosine similarity=-0.01
+
+meat pork 1830, cosine similarity=0.49
+meat pork 1990, cosine similarity=0.57
+
+meat veal 1830, cosine similarity=0.31
+meat veal 1990, cosine similarity=0.44
+
+meat pulp 1830, cosine similarity=0.18
+meat pulp 1990, cosine similarity=0.23
+
+meat beef 1830, cosine similarity=0.51
+meat beef 1990, cosine similarity=0.63
+
+meat duck 1830, cosine similarity=0.15
+meat duck 1990, cosine similarity=0.19
+
+meat ring 1830, cosine similarity=0.02
+meat ring 1990, cosine similarity=0.04
+
+instrument drum 1830, cosine similarity=0.18
+instrument drum 1990, cosine similarity=0.18
+
+instrument banjo 1830, cosine similarity=0.00
+instrument banjo 1990, cosine similarity=0.09
+
+instrument bolt 1830, cosine similarity=0.11
+instrument bolt 1990, cosine similarity=0.07
+
+storm thunder 1830, cosine similarity=0.40
+storm thunder 1990, cosine similarity=0.38
+
+storm blizzard 1830, cosine similarity=0.00
+storm blizzard 1990, cosine similarity=0.24
+
+storm cannons 1830, cosine similarity=0.00
+storm cannons 1990, cosine similarity=0.19
+
+crime robbery 1830, cosine similarity=0.38
+crime robbery 1990, cosine similarity=0.42
+
+crime arson 1830, cosine similarity=0.00
+crime arson 1990, cosine similarity=0.24
+
+crime signal 1830, cosine similarity=0.03
+crime signal 1990, cosine similarity=-0.12
+
+clothing pants 1830, cosine similarity=0.00
+clothing pants 1990, cosine similarity=0.16
+
+clothing gloves 1830, cosine similarity=0.26
+clothing gloves 1990, cosine similarity=0.40
+
+clothing masks 1830, cosine similarity=0.00
+clothing masks 1990, cosine similarity=0.23
+
+flower rose 1830, cosine similarity=0.24
+flower rose 1990, cosine similarity=0.28
+
+flower lilac 1830, cosine similarity=0.00
+flower lilac 1990, cosine similarity=0.33
+
+flower slot 1830, cosine similarity=0.00
+flower slot 1990, cosine similarity=0.17
+
+weapon gun 1830, cosine similarity=0.23
+weapon gun 1990, cosine similarity=0.44
+
+weapon club 1830, cosine similarity=0.27
+weapon club 1990, cosine similarity=0.12
+
+weapon babe 1830, cosine similarity=0.12
+weapon babe 1990, cosine similarity=0.05
+
+crime murder 1830, cosine similarity=0.47
+crime murder 1990, cosine similarity=0.45
+
+crime speeding 1830, cosine similarity=0.00
+crime speeding 1990, cosine similarity=0.09
+
+crime dragons 1830, cosine similarity=-0.04
+crime dragons 1990, cosine similarity=0.04
+
+in house 1830, cosine similarity=0.04
+in house 1990, cosine similarity=0.03
+
+in cabin 1830, cosine similarity=-0.02
+in cabin 1990, cosine similarity=0.04
+
+in jelly 1830, cosine similarity=0.03
+in jelly 1990, cosine similarity=0.06
+
+product milk 1830, cosine similarity=0.17
+product milk 1990, cosine similarity=0.18
+
+product cream 1830, cosine similarity=0.10
+product cream 1990, cosine similarity=0.02
+
+product gold 1830, cosine similarity=0.07
+product gold 1990, cosine similarity=0.02
+
+feeling sad 1830, cosine similarity=0.15
+feeling sad 1990, cosine similarity=0.27
+
+feeling envy 1830, cosine similarity=0.20
+feeling envy 1990, cosine similarity=0.30
+
+feeling well 1830, cosine similarity=0.06
+feeling well 1990, cosine similarity=0.18
+
+meat chicken 1830, cosine similarity=0.37
+meat chicken 1990, cosine similarity=0.47
+
+meat ham 1830, cosine similarity=0.26
+meat ham 1990, cosine similarity=0.28
+
+meat shrub 1830, cosine similarity=0.14
+meat shrub 1990, cosine similarity=0.19
+
+color blue 1830, cosine similarity=0.39
+color blue 1990, cosine similarity=0.33
+
+color tan 1830, cosine similarity=0.00
+color tan 1990, cosine similarity=0.20
+
+color zone 1830, cosine similarity=0.03
+color zone 1990, cosine similarity=0.09
+
+read book 1830, cosine similarity=0.39
+read book 1990, cosine similarity=0.32
+
+read article 1830, cosine similarity=0.07
+read article 1990, cosine similarity=0.15
+
+read warts 1830, cosine similarity=0.00
+read warts 1990, cosine similarity=-0.05
+
+seasoning salt 1830, cosine similarity=0.00
+seasoning salt 1990, cosine similarity=0.36
+
+seasoning herbs 1830, cosine similarity=0.00
+seasoning herbs 1990, cosine similarity=0.27
+
+seasoning risk 1830, cosine similarity=0.00
+seasoning risk 1990, cosine similarity=-0.06
+
+furniture table 1830, cosine similarity=0.19
+furniture table 1990, cosine similarity=0.10
+
+furniture shelf 1830, cosine similarity=0.13
+furniture shelf 1990, cosine similarity=0.18
+
+furniture elbow 1830, cosine similarity=0.01
+furniture elbow 1990, cosine similarity=-0.07
+
+seasoning pepper 1830, cosine similarity=0.00
+seasoning pepper 1990, cosine similarity=0.44
+
+seasoning ketchup 1830, cosine similarity=0.00
+seasoning ketchup 1990, cosine similarity=0.26
+
+seasoning peanut 1830, cosine similarity=0.00
+seasoning peanut 1990, cosine similarity=0.30
+
+furniture chair 1830, cosine similarity=0.07
+furniture chair 1990, cosine similarity=0.15
+
+furniture stool 1830, cosine similarity=0.09
+furniture stool 1990, cosine similarity=0.05
+
+furniture witch 1830, cosine similarity=-0.04
+furniture witch 1990, cosine similarity=0.04
+
+fruit banana 1830, cosine similarity=0.00
+fruit banana 1990, cosine similarity=0.35
+
+fruit melon 1830, cosine similarity=0.00
+fruit melon 1990, cosine similarity=0.23
+
+fruit wagon 1830, cosine similarity=0.02
+fruit wagon 1990, cosine similarity=0.06
+
+clothing shirt 1830, cosine similarity=0.30
+clothing shirt 1990, cosine similarity=0.23
+
+clothing coat 1830, cosine similarity=0.24
+clothing coat 1990, cosine similarity=0.26
+
+clothing fish 1830, cosine similarity=0.14
+clothing fish 1990, cosine similarity=0.13
+
+rodent rat 1830, cosine similarity=0.00
+rodent rat 1990, cosine similarity=0.28
+
+rodent gopher 1830, cosine similarity=0.00
+rodent gopher 1990, cosine similarity=0.14
+
+rodent ribs 1830, cosine similarity=0.00
+rodent ribs 1990, cosine similarity=0.03
+
+house kitchen 1830, cosine similarity=0.30
+house kitchen 1990, cosine similarity=0.31
+
+house office 1830, cosine similarity=0.06
+house office 1990, cosine similarity=0.23
+
+house monkey 1830, cosine similarity=-0.01
+house monkey 1990, cosine similarity=0.05
+
+animal lion 1830, cosine similarity=0.23
+animal lion 1990, cosine similarity=0.17
+
+animal zebra 1830, cosine similarity=0.00
+animal zebra 1990, cosine similarity=0.06
+
+animal acid 1830, cosine similarity=0.21
+animal acid 1990, cosine similarity=0.07
+
+vegetable carrot 1830, cosine similarity=0.00
+vegetable carrot 1990, cosine similarity=0.33
+
+vegetable beet 1830, cosine similarity=0.00
+vegetable beet 1990, cosine similarity=0.27
+
+vegetable rest 1830, cosine similarity=0.04
+vegetable rest 1990, cosine similarity=0.03
+
+season spring 1830, cosine similarity=0.43
+season spring 1990, cosine similarity=0.38
+
+season cold 1830, cosine similarity=0.27
+season cold 1990, cosine similarity=0.23
+
+season stump 1830, cosine similarity=0.00
+season stump 1990, cosine similarity=0.05
+
+tool shovel 1830, cosine similarity=0.16
+tool shovel 1990, cosine similarity=0.13
+
+tool spade 1830, cosine similarity=0.20
+tool spade 1990, cosine similarity=0.10
+
+tool lunch 1830, cosine similarity=0.00
+tool lunch 1990, cosine similarity=-0.05
+
+relative uncle 1830, cosine similarity=0.05
+relative uncle 1990, cosine similarity=-0.05
+
+relative son 1830, cosine similarity=0.02
+relative son 1990, cosine similarity=-0.10
+
+relative slice 1830, cosine similarity=-0.11
+relative slice 1990, cosine similarity=0.02
+
+animal cow 1830, cosine similarity=0.25
+animal cow 1990, cosine similarity=0.36
+
+animal ox 1830, cosine similarity=0.22
+animal ox 1990, cosine similarity=0.28
+
+animal ivy 1830, cosine similarity=0.05
+animal ivy 1990, cosine similarity=0.07
+
+body leg 1830, cosine similarity=0.20
+body leg 1990, cosine similarity=0.25
+
+body chest 1830, cosine similarity=0.24
+body chest 1990, cosine similarity=0.17
+
+body gyms 1830, cosine similarity=0.00
+body gyms 1990, cosine similarity=0.00
+
+color red 1830, cosine similarity=0.42
+color red 1990, cosine similarity=0.30
+
+color brown 1830, cosine similarity=0.43
+color brown 1990, cosine similarity=0.26
+
+color nest 1830, cosine similarity=0.07
+color nest 1990, cosine similarity=0.05
+
+in apartment 1830, cosine similarity=-0.07
+in apartment 1990, cosine similarity=0.02
+
+in tent 1830, cosine similarity=0.01
+in tent 1990, cosine similarity=0.04
+
+in domino 1830, cosine similarity=0.00
+in domino 1990, cosine similarity=-0.06
+
+fabric cotton 1830, cosine similarity=0.16
+fabric cotton 1990, cosine similarity=0.24
+
+fabric lace 1830, cosine similarity=0.14
+fabric lace 1990, cosine similarity=0.27
+
+fabric payday 1830, cosine similarity=0.00
+fabric payday 1990, cosine similarity=0.00
+
+shape triangle 1830, cosine similarity=0.31
+shape triangle 1990, cosine similarity=0.19
+
+shape cone 1830, cosine similarity=0.31
+shape cone 1990, cosine similarity=0.27
+
+shape tailor 1830, cosine similarity=0.03
+shape tailor 1990, cosine similarity=0.07
+
+animal cat 1830, cosine similarity=0.32
+animal cat 1990, cosine similarity=0.28
+
+animal pig 1830, cosine similarity=0.22
+animal pig 1990, cosine similarity=0.30
+
+animal bus 1830, cosine similarity=0.00
+animal bus 1990, cosine similarity=-0.01
+
+rodent mouse 1830, cosine similarity=0.00
+rodent mouse 1990, cosine similarity=0.24
+
+rodent shrew 1830, cosine similarity=0.00
+rodent shrew 1990, cosine similarity=0.09
+
+rodent fudge 1830, cosine similarity=0.00
+rodent fudge 1990, cosine similarity=0.08
+
+tree branch 1830, cosine similarity=0.31
+tree branch 1990, cosine similarity=0.32
+
+tree twig 1830, cosine similarity=0.44
+tree twig 1990, cosine similarity=0.36
+
+tree plaza 1830, cosine similarity=0.00
+tree plaza 1990, cosine similarity=0.07
+
+green grass 1830, cosine similarity=0.41
+green grass 1990, cosine similarity=0.35
+
+green frogs 1830, cosine similarity=0.13
+green frogs 1990, cosine similarity=0.07
+
+green giant 1830, cosine similarity=0.07
+green giant 1990, cosine similarity=0.14
+
+ fork 1830, cosine similarity=0.00
+ fork 1990, cosine similarity=0.00
+
+ mixer 1830, cosine similarity=0.00
+ mixer 1990, cosine similarity=0.00
+
+ text 1830, cosine similarity=0.00
+ text 1990, cosine similarity=0.00
+
+metal steel 1830, cosine similarity=0.43
+metal steel 1990, cosine similarity=0.52
+
+metal tin 1830, cosine similarity=0.54
+metal tin 1990, cosine similarity=0.42
+
+metal halo 1830, cosine similarity=0.00
+metal halo 1990, cosine similarity=0.16
+
+animal dog 1830, cosine similarity=0.35
+animal dog 1990, cosine similarity=0.37
+
+animal mouse 1830, cosine similarity=0.21
+animal mouse 1990, cosine similarity=0.15
+
+animal pink 1830, cosine similarity=-0.06
+animal pink 1990, cosine similarity=0.09
+
+bicycle wheel 1830, cosine similarity=0.00
+bicycle wheel 1990, cosine similarity=0.34
+
+bicycle lock 1830, cosine similarity=0.00
+bicycle lock 1990, cosine similarity=0.11
+
+bicycle store 1830, cosine similarity=0.00
+bicycle store 1990, cosine similarity=0.10
+
+wood oak 1830, cosine similarity=0.40
+wood oak 1990, cosine similarity=0.29
+
+wood elm 1830, cosine similarity=0.29
+wood elm 1990, cosine similarity=0.13
+
+wood key 1830, cosine similarity=0.06
+wood key 1990, cosine similarity=-0.03
+
+season fall 1830, cosine similarity=0.05
+season fall 1990, cosine similarity=0.18
+
+season hunting 1830, cosine similarity=0.16
+season hunting 1990, cosine similarity=0.21
+
+season force 1830, cosine similarity=-0.02
+season force 1990, cosine similarity=-0.03
+
+music rap 1830, cosine similarity=0.12
+music rap 1990, cosine similarity=0.27
+
+music gospel 1830, cosine similarity=0.01
+music gospel 1990, cosine similarity=0.15
+
+music riot 1830, cosine similarity=0.06
+music riot 1990, cosine similarity=0.17
+
+instrument flute 1830, cosine similarity=0.19
+instrument flute 1990, cosine similarity=0.27
+
+instrument harp 1830, cosine similarity=0.23
+instrument harp 1990, cosine similarity=0.26
+
+instrument snap 1830, cosine similarity=0.11
+instrument snap 1990, cosine similarity=0.01
+
+bread white 1830, cosine similarity=0.16
+bread white 1990, cosine similarity=0.13
+
+bread french 1830, cosine similarity=-0.13
+bread french 1990, cosine similarity=0.09
+
+bread ruins 1830, cosine similarity=-0.10
+bread ruins 1990, cosine similarity=0.04
+
+fuel gas 1830, cosine similarity=0.37
+fuel gas 1990, cosine similarity=0.46
+
+fuel coal 1830, cosine similarity=0.40
+fuel coal 1990, cosine similarity=0.44
+
+fuel kid 1830, cosine similarity=0.09
+fuel kid 1990, cosine similarity=-0.01
+
+hikers boots 1830, cosine similarity=0.00
+hikers boots 1990, cosine similarity=0.22
+
+hikers compass 1830, cosine similarity=0.00
+hikers compass 1990, cosine similarity=0.07
+
+hikers track 1830, cosine similarity=0.00
+hikers track 1990, cosine similarity=0.14
+
+flies bird 1830, cosine similarity=0.31
+flies bird 1990, cosine similarity=0.31
+
+flies bat 1830, cosine similarity=0.32
+flies bat 1990, cosine similarity=0.18
+
+flies rice 1830, cosine similarity=0.12
+flies rice 1990, cosine similarity=0.16
+
+body arm 1830, cosine similarity=0.18
+body arm 1990, cosine similarity=0.23
+
+body neck 1830, cosine similarity=0.27
+body neck 1990, cosine similarity=0.31
+
+body rag 1830, cosine similarity=0.03
+body rag 1990, cosine similarity=0.08
+
+house bathroom 1830, cosine similarity=0.00
+house bathroom 1990, cosine similarity=0.20
+
+house study 1830, cosine similarity=-0.11
+house study 1990, cosine similarity=-0.09
+
+house zombie 1830, cosine similarity=0.00
+house zombie 1990, cosine similarity=0.00
+
+clothing socks 1830, cosine similarity=0.00
+clothing socks 1990, cosine similarity=0.32
+
+clothing tie 1830, cosine similarity=0.03
+clothing tie 1990, cosine similarity=0.12
+
+clothing item 1830, cosine similarity=0.04
+clothing item 1990, cosine similarity=0.22
+
+animal pig 1830, cosine similarity=0.22
+animal pig 1990, cosine similarity=0.30
+
+animal mule 1830, cosine similarity=0.23
+animal mule 1990, cosine similarity=0.20
+
+animal pipe 1830, cosine similarity=0.02
+animal pipe 1990, cosine similarity=0.00
+
+job doctor 1830, cosine similarity=0.17
+job doctor 1990, cosine similarity=0.20
+
+job banker 1830, cosine similarity=0.08
+job banker 1990, cosine similarity=0.10
+
+job puppet 1830, cosine similarity=0.18
+job puppet 1990, cosine similarity=-0.09
+
+read newspaper 1830, cosine similarity=0.28
+read newspaper 1990, cosine similarity=0.32
+
+read letter 1830, cosine similarity=0.29
+read letter 1990, cosine similarity=0.23
+
+read vulture 1830, cosine similarity=-0.07
+read vulture 1990, cosine similarity=0.03
+
+makeup lipstick 1830, cosine similarity=0.00
+makeup lipstick 1990, cosine similarity=0.30
+
+makeup gloss 1830, cosine similarity=0.00
+makeup gloss 1990, cosine similarity=0.09
+
+makeup inmate 1830, cosine similarity=0.00
+makeup inmate 1990, cosine similarity=0.10
+
+season winter 1830, cosine similarity=0.50
+season winter 1990, cosine similarity=0.43
+
+season christmas 1830, cosine similarity=0.26
+season christmas 1990, cosine similarity=0.28
+
+season turnips 1830, cosine similarity=0.21
+season turnips 1990, cosine similarity=0.13
+
+fruit apple 1830, cosine similarity=0.37
+fruit apple 1990, cosine similarity=0.39
+
+fruit lime 1830, cosine similarity=0.16
+fruit lime 1990, cosine similarity=0.25
+
+fruit slow 1830, cosine similarity=0.00
+fruit slow 1990, cosine similarity=0.07
+
+fabric silk 1830, cosine similarity=0.14
+fabric silk 1990, cosine similarity=0.30
+
+fabric velvet 1830, cosine similarity=0.06
+fabric velvet 1990, cosine similarity=0.20
+
+fabric organ 1830, cosine similarity=0.22
+fabric organ 1990, cosine similarity=0.06
+
+weapon knife 1830, cosine similarity=0.39
+weapon knife 1990, cosine similarity=0.35
+
+weapon spear 1830, cosine similarity=0.46
+weapon spear 1990, cosine similarity=0.30
+
+weapon cliff 1830, cosine similarity=0.04
+weapon cliff 1990, cosine similarity=0.01
+
+feeling happy 1830, cosine similarity=0.08
+feeling happy 1990, cosine similarity=0.20
+
+feeling calm 1830, cosine similarity=0.18
+feeling calm 1990, cosine similarity=0.29
+
+feeling name 1830, cosine similarity=-0.03
+feeling name 1990, cosine similarity=0.08
+
+fruit orange 1830, cosine similarity=0.22
+fruit orange 1990, cosine similarity=0.25
+
+fruit plum 1830, cosine similarity=0.33
+fruit plum 1990, cosine similarity=0.23
+
+fruit tubas 1830, cosine similarity=0.00
+fruit tubas 1990, cosine similarity=0.00
+
+tool hammer 1830, cosine similarity=0.31
+tool hammer 1990, cosine similarity=0.23
+
+tool ruler 1830, cosine similarity=0.15
+tool ruler 1990, cosine similarity=0.20
+
+tool box 1830, cosine similarity=0.15
+tool box 1990, cosine similarity=0.18
+
+farmers tractor 1830, cosine similarity=0.00
+farmers tractor 1990, cosine similarity=0.07
+
+farmers rake 1830, cosine similarity=0.03
+farmers rake 1990, cosine similarity=0.05
+
+farmers bookcase 1830, cosine similarity=0.00
+farmers bookcase 1990, cosine similarity=-0.03
+
+flies airplane 1830, cosine similarity=0.00
+flies airplane 1990, cosine similarity=0.19
+
+flies moth 1830, cosine similarity=0.28
+flies moth 1990, cosine similarity=0.31
+
+flies possum 1830, cosine similarity=0.00
+flies possum 1990, cosine similarity=0.12
+

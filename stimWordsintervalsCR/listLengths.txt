@@ -1,0 +1,76 @@
+1800yearHighValsLength: 123
+1800yearLowValsLength: 123
+1800yearInconValsLength: 124
+
+1810yearHighValsLength: 124
+1810yearLowValsLength: 124
+1810yearInconValsLength: 125
+
+1820yearHighValsLength: 124
+1820yearLowValsLength: 124
+1820yearInconValsLength: 125
+
+1830yearHighValsLength: 125
+1830yearLowValsLength: 125
+1830yearInconValsLength: 127
+
+1840yearHighValsLength: 127
+1840yearLowValsLength: 127
+1840yearInconValsLength: 127
+
+1850yearHighValsLength: 127
+1850yearLowValsLength: 127
+1850yearInconValsLength: 127
+
+1860yearHighValsLength: 127
+1860yearLowValsLength: 127
+1860yearInconValsLength: 127
+
+1870yearHighValsLength: 127
+1870yearLowValsLength: 127
+1870yearInconValsLength: 127
+
+1880yearHighValsLength: 129
+1880yearLowValsLength: 129
+1880yearInconValsLength: 129
+
+1890yearHighValsLength: 130
+1890yearLowValsLength: 130
+1890yearInconValsLength: 130
+
+1900yearHighValsLength: 130
+1900yearLowValsLength: 130
+1900yearInconValsLength: 130
+
+1910yearHighValsLength: 130
+1910yearLowValsLength: 130
+1910yearInconValsLength: 130
+
+1920yearHighValsLength: 130
+1920yearLowValsLength: 130
+1920yearInconValsLength: 130
+
+1930yearHighValsLength: 130
+1930yearLowValsLength: 130
+1930yearInconValsLength: 130
+
+1940yearHighValsLength: 128
+1940yearLowValsLength: 128
+1940yearInconValsLength: 128
+
+1950yearHighValsLength: 131
+1950yearLowValsLength: 131
+1950yearInconValsLength: 131
+
+1960yearHighValsLength: 133
+1960yearLowValsLength: 133
+1960yearInconValsLength: 133
+
+1970yearHighValsLength: 133
+1970yearLowValsLength: 133
+1970yearInconValsLength: 133
+
+1980yearHighValsLength: 134
+1980yearLowValsLength: 134
+1980yearInconValsLength: 134
+
