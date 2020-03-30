@@ -73,6 +73,8 @@ ggplot(data )+
   geom_density(aes(x=cosine, fill=category), alpha=0.5)+
   facet_wrap(~year)
 
+ggsave("./Rgraphs/CosineSimDensityOverDecades.pdf", width = 9, height=9)
+
 ggplot(data )+
   geom_point(aes(x=year, y=cosine, color=category, group=cue), alpha=0.2)+
   stat_summary(aes(x=year, y=cosine, color=category), geom='pointrange', fun.data='mean_cl_boot')+
@@ -230,6 +232,9 @@ summary(m1_allFit$bobyqa)
 
 # Cumulative Similarity -------------------------------------------------
 
+# Assumes that people's language is influenced by things written in past decades (e.g., reading older books)
+# weighted averaging assumes that you are less influenced by new decades as you get older
+
 data2 = data %>% 
   group_by(cue, target) %>% 
   select(-cue1,-category1,-target1,-year1, -cue_check, -cat_check, -target_check, -year_check) %>% 
@@ -296,6 +301,8 @@ data4 = data3 %>%
 
 ggplot(data4)+
   stat_summary(aes(x=age, y=weighted_avg_sim, color=category), geom='pointrange', fun.data = "mean_cl_boot")
+
+ggsave("./Rgraphs/WeightedAvgSimByAgeGroup.pdf", width = 7, height=7)
 
 m4<-lmer(weighted_avg_sim ~ age*category + (1+age*category|cue), data= data4)
 summary(m4)
