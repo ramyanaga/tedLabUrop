@@ -61,10 +61,10 @@ def pltHistograms():
 
     figCount = 0
     for year in yearHigh:
+        plt.figure(figCount)
         plt.title("cosine sim histogram in year " + str(year))
         plt.xlabel("cosine sim scores")
         plt.ylabel("frequency of score")
-        plt.figure(figCount)
         plt.hist(yearHigh[year], color='r')
         plt.hist(yearLow[year], color='b')
         plt.hist(yearIncon[year], color='g')
